@@ -1,0 +1,919 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>AeroTEC &mdash; Technical Training</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Free HTML5 Website Template by " />
+    <meta name="keywords"
+        content="free website templates, free html5, free template, free bootstrap, free website template, html5, css3, mobile first, responsive" />
+    <meta name="author" content="" />
+
+    <!--
+	//////////////////////////////////////////////////////
+
+	FREE HTML5 TEMPLATE
+	DESIGNED & DEVELOPED by
+
+	Website:
+	Email: 			info@
+	Twitter: 		http://twitter.com/fh5co
+	Facebook: 		https://www.facebook.com/fh5co
+
+	//////////////////////////////////////////////////////
+	 -->
+
+    <!-- Facebook and Twitter integration -->
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="" />
+    <meta property="og:url" content="" />
+    <meta property="og:site_name" content="" />
+    <meta property="og:description" content="" />
+    <meta name="twitter:title" content="" />
+    <meta name="twitter:image" content="" />
+    <meta name="twitter:url" content="" />
+    <meta name="twitter:card" content="" />
+
+    <link href="https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,300i,400,400i,500,600i,700"
+        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Satisfy" rel="stylesheet">
+
+    <!-- Animate.css -->
+    <link rel="stylesheet" href="css/animate.css">
+    <!-- Icomoon Icon Fonts-->
+    <link rel="stylesheet" href="css/icomoon.css">
+    <!-- Bootstrap  -->
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <!-- Flexslider  -->
+    <link rel="stylesheet" href="css/flexslider.css">
+
+    <!-- Theme style  -->
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- Modernizr JS -->
+    <script src="js/modernizr-2.6.2.min.js"></script>
+    <!-- FOR IE9 below -->
+    <!--[if lt IE 9]>
+	<script src="js/respond.min.js"></script>
+	<![endif]-->
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap');
+
+        .newSection {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-wrap: wrap;
+            height: 100vh;
+            background: #323438;
+            font-family: 'Raleway', sans-serif;
+            font-weight: bold;
+        }
+
+        .newSection a {
+            position: relative;
+            display: inline-block;
+            padding: 25px 30px;
+            margin: 40px 0;
+            color: #03e9f4;
+            text-decoration: none;
+            text-transform: uppercase;
+            transition: 0.5s;
+            letter-spacing: 4px;
+            overflow: hidden;
+            margin-right: 50px;
+
+        }
+
+        .newSection a:hover {
+            background: #03e9f4;
+            color: #050801;
+            box-shadow: 0 0 5px #03e9f4,
+                0 0 25px #03e9f4,
+                0 0 50px #03e9f4,
+                0 0 200px #03e9f4;
+            -webkit-box-reflect: below 1px linear-gradient(transparent, #0005);
+        }
+
+        .newSection a:nth-child(1) {
+            filter: hue-rotate(270deg);
+        }
+
+        .newSection a:nth-child(2) {
+            filter: hue-rotate(110deg);
+        }
+
+        .newSection a:nth-child(3) {
+            filter: hue-rotate(222deg)
+        }
+
+        .newSection a:nth-child(4) {
+            filter: hue-rotate(180deg)
+        }
+
+        .newSection a span {
+            position: absolute;
+            display: block;
+        }
+
+        .newSection a span:nth-child(1) {
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 2px;
+            background: linear-gradient(90deg, transparent, #03e9f4);
+            animation: animate1 1s linear infinite;
+        }
+
+        @keyframes animate1 {
+            0% {
+                left: -100%;
+            }
+
+            50%,
+            100% {
+                left: 100%;
+            }
+        }
+
+        .newSection a span:nth-child(2) {
+            top: -100%;
+            right: 0;
+            width: 2px;
+            height: 100%;
+            background: linear-gradient(180deg, transparent, #03e9f4);
+            animation: animate2 1s linear infinite;
+            animation-delay: 0.25s;
+        }
+
+        @keyframes animate2 {
+            0% {
+                top: -100%;
+            }
+
+            50%,
+            100% {
+                top: 100%;
+            }
+        }
+
+        .newSection a span:nth-child(3) {
+            bottom: 0;
+            right: 0;
+            width: 100%;
+            height: 2px;
+            background: linear-gradient(270deg, transparent, #03e9f4);
+            animation: animate3 1s linear infinite;
+            animation-delay: 0.50s;
+        }
+
+        @keyframes animate3 {
+            0% {
+                right: -100%;
+            }
+
+            50%,
+            100% {
+                right: 100%;
+            }
+        }
+
+
+        .newSection a span:nth-child(4) {
+            bottom: -100%;
+            left: 0;
+            width: 2px;
+            height: 100%;
+            background: linear-gradient(360deg, transparent, #03e9f4);
+            animation: animate4 1s linear infinite;
+            animation-delay: 0.75s;
+        }
+
+        @keyframes animate4 {
+            0% {
+                bottom: -100%;
+            }
+
+            50%,
+            100% {
+                bottom: 100%;
+            }
+        }
+    </style>
+    <script defer src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" integrity="sha384-rOA1PnstxnOBLzCLMcre8ybwbTmemjzdNlILg8O7z1lUkLXozs4DHonlDtnE7fpc" crossorigin="anonymous"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Sans:400,700">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <style>
+        .rightside {
+            float: right;
+        }
+
+        .singleRec {
+            width: fit-content;
+            background: #666;
+            color: white;
+            border-radius: 25px;
+            padding: 5px;
+            cursor: pointer;
+            margin-left: 10px;
+
+        }
+
+        .chat-circle_robot {
+            /*     margin-left: -7%; */
+            display: block;
+            margin-left: 1px;
+        }
+
+        .chat-box-overlay_robot {
+            margin-left: -3px;
+        }
+
+        .chat-box-welcome_robot {
+            margin-left: -10px;
+        }
+
+        /* ---------- GENERAL STYLE---------- */
+
+        .chat-box-welcome__company-name,
+        .chat-box__sign {
+            font-family: 'Roboto', 'Helvetica Neue', "Arial", sans-serif;
+            position: relative;
+        }
+
+
+        /*powered by deeppixel*/
+
+        .chat-box__sign {
+            font-size: 9px;
+            line-height: 20px;
+            /*color: #a2a2a2;*/
+            color: #b5b5b5;
+        }
+
+        .chat-input-box {
+            text-align: center;
+            position: relative;
+        }
+
+        .btn#my-btn {
+            background: white;
+            padding-top: 13px;
+            padding-bottom: 12px;
+            border-radius: 45px;
+            padding-right: 40px;
+            padding-left: 40px;
+            color: #5865C3;
+        }
+
+
+        /*color to change*/
+
+        #chat-circle,
+        .chat-box-welcome__header,
+        .chat-box-header,
+        .chat-msg.bot>.msg-avatar {
+            /*red*/
+            /*background-image: linear-gradient( to top right, rgba(246, 72, 72, 1), rgba(250, 65, 95, 1));*/
+            /*pink-blue*/
+            /*background-image: linear-gradient( to top left, rgba(252, 123, 123, 1), rgba(166, 193, 255, 1));*/
+            /*pink-red*/
+            background-image: linear-gradient(to bottom right, rgba(168, 224, 99, 1), rgba(246, 72, 72, 1));
+        }
+
+        .options-btn {
+            border: 1px solid rgba(246, 72, 72, 1);
+        }
+
+        .spiner>* {
+            background: rgba(246, 72, 72, 1);
+        }
+
+        /*.options-btn:hover{
+   background-image: linear-gradient( to bottom right, rgba(240, 149, 255, 1), rgba(246, 72, 72, 1));
+
+	color: white;
+}*/
+
+        /* ---------- chat-bot-button to open chat---------- */
+
+        #chat-circle {
+            position: fixed;
+            bottom: 50px;
+            /*right: 50px;*/
+            right: 50px;
+            width: 80px;
+            height: 80px;
+            border-radius: 50%;
+            color: white;
+            padding: 15px;
+            cursor: pointer;
+            /*box-shadow: 0px 3px 16px 0px rgba(0, 0, 0, 0.6), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);*/
+            box-shadow: 0px 3px 16px 0px rgba(246, 72, 72, 0.5), 0 3px 1px -2px rgba(246, 72, 72, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+            /*remove display none*/
+            /*display: none;*/
+        }
+
+
+        /*#chat-circle .material-icons {
+	font-size: 36px;
+}*/
+
+        #chat-overlay {
+            background: rgba(255, 255, 255, 0.1);
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border-radius: 50%;
+            display: none;
+        }
+
+        .chat-circle_robot {
+            height: 50px;
+        }
+
+
+        /*chat-bot-welcome*/
+
+        .chat-box-welcome {
+            /*add display none*/
+            /* display: none;*/
+            /*background: #efefef;*/
+            background: #f8f8f8;
+            position: fixed;
+            right: 30px;
+            bottom: 50px;
+            width: 350px;
+            max-width: 85vw;
+            max-height: 100vh;
+            border-radius: 3px;
+            /*   box-shadow: 0px 5px 35px 9px #464a92; */
+            box-shadow: 0px 5px 35px 9px #ccc;
+        }
+
+
+        .chat-box-welcome__header {
+            height: 420px;
+            border-top-left-radius: 3px;
+            border-top-right-radius: 3px;
+            display: none;
+        }
+
+        .chat-box__header-text {
+            color: white;
+            padding-left: 10px;
+            font-size: 20px;
+            padding-top: 13px;
+        }
+
+        #chat-box-welcome__ava {
+            background: rgba(0, 0, 0, 0.38);
+            border-radius: 50%;
+            position: absolute;
+            top: 98px;
+            left: 124px;
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            color: white;
+            padding: 22px;
+        }
+
+
+        /*#chat-box-welcome__ava .material-icons {
+	font-size: 64px;
+}*/
+
+        .chat-box-welcome_robot {
+            height: 75px;
+            position: absolute;
+            top: 12px;
+        }
+
+        .chat-box-welcome__welcome-text {
+            color: #fff;
+            text-align: center;
+            width: 80%;
+            position: relative;
+            top: 45%;
+            left: 50%;
+            transform: translateX(-50%);
+        }
+
+        .chat-box-welcome__welcome-text p {
+            font-size: 24px;
+        }
+
+
+        /*chat-box after welcome was togled*/
+
+        #chat-box__wraper {
+            display: none;
+        }
+
+        .chat-box {
+            /*add display none*/
+            z-index: 1002;
+            display: none;
+            /*background: #efefef;*/
+            background: #f8f8f8;
+            position: fixed;
+            /* right: 30px;*/
+            right: 30px;
+            bottom: 50px;
+            width: 350px;
+            max-width: 85vw;
+            max-height: 100vh;
+            border-radius: 3px;
+            /*   box-shadow: 0px 5px 35px 9px #464a92; */
+            box-shadow: 0px 5px 35px 9px #ccc;
+        }
+
+        .chat-box-toggle {
+            float: right;
+            margin-right: 15px;
+            cursor: pointer;
+        }
+
+        .chat-box-header {
+            position: relative;
+            height: 50px;
+            border-top-left-radius: 3px;
+            border-top-right-radius: 3px;
+            color: white;
+            padding-left: 10px;
+            font-size: 20px;
+            padding-top: 13px;
+        }
+
+        .chat-box-body {
+            position: relative;
+            height: 370px;
+            height: auto;
+            border-bottom: 1px solid rgba(181, 181, 181, 0.42);
+            overflow: hidden;
+        }
+
+        .chat-box-body:after {
+            content: "";
+            background-color: #F8F8F8;
+            opacity: 0.1;
+            top: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            height: 100%;
+            position: absolute;
+            z-index: -1;
+        }
+
+        .chat-input__text {
+            background: #fff;
+            width: 95%;
+            position: relative;
+            height: 47px;
+            padding-top: 10px;
+            padding-right: 50px;
+            padding-bottom: 10px;
+            padding-left: 15px;
+            margin-top: 5px;
+            resize: none;
+            outline: none;
+            border: 1px solid #F2F0F0;
+            color: #888;
+            border-radius: 3px;
+            overflow: hidden;
+        }
+
+        .chat-input-box>form {
+            margin-bottom: 0;
+        }
+
+        .chat-input__text::-webkit-input-placeholder {
+            /* Chrome/Opera/Safari */
+            color: #ccc;
+        }
+
+        .chat-input__text::-moz-placeholder {
+            /* Firefox 19+ */
+            color: #ccc;
+        }
+
+        .chat-input__text:-ms-input-placeholder {
+            /* IE 10+ */
+            color: #ccc;
+        }
+
+        .chat-input__text:-moz-placeholder {
+            /* Firefox 18- */
+            color: #ccc;
+        }
+
+        .chat-submit {
+            position: absolute;
+            bottom: 100px;
+            right: 10px;
+            background: transparent;
+            box-shadow: none;
+            border: none;
+            border-radius: 50%;
+            color: rgba(250, 65, 95, 0.99);
+            width: 35px;
+            height: 35px;
+        }
+
+        .chat-logs {
+            padding: 15px;
+            height: 370px;
+            overflow-y: scroll;
+        }
+
+        @media only screen and (max-width: 500px) {
+            .chat-logs {
+                height: 40vh;
+            }
+        }
+
+        .chat-msg.bot>.msg-avatar {
+            width: 45px !important;
+            height: 50px;
+            border-radius: 50%;
+            float: left;
+            width: 15%;
+            padding: 6px;
+            position: relative;
+        }
+
+        .msg-avatar>img {
+            width: 40px !important;
+            height: 40px;
+            border-radius: 100%;
+        }
+
+
+        /*.chat-msg.bot>.msg-avatar .material-icons {
+	color: #fff;
+	font-size: 25px;
+}*/
+
+        .chat-box-overlay_robot {
+            height: 35px;
+            position: absolute;
+            top: 5px;
+        }
+
+
+        /*.chat-msg.self>.msg-avatar img {
+	width: 45px;
+	height: 45px;
+	border-radius: 50%;
+	float: right;
+	width: 15%;
+}*/
+
+        .cm-msg-text {
+            background: white;
+            padding: 10px 15px 10px 15px;
+            color: #666;
+            max-width: 75%;
+            float: left;
+            margin-left: 10px;
+            position: relative;
+            margin-bottom: 20px;
+            border-radius: 3px;
+        }
+
+        .options-btn {
+            background: white;
+            padding: 10px 15px 10px 15px;
+            color: #666;
+            width: 75%;
+            margin-left: 55px;
+            position: relative;
+            margin-bottom: 20px;
+            border-radius: 3px;
+            text-align: center;
+        }
+
+
+        .chat-msg {
+            clear: both;
+        }
+
+        .chat-msg.self>.cm-msg-text {
+            float: right;
+            background: #efefef;
+            /*color: white;*/
+        }
+
+        .cm-msg-button>ul>li {
+            list-style: none;
+            float: left;
+            width: 50%;
+        }
+
+        .cm-msg-button {
+            clear: both;
+            margin-bottom: 70px;
+        }
+
+
+        /*loader*/
+
+
+        .spin-container {
+            /* padding: 0px 15px 0px 15px; */
+            color: #666;
+            max-width: 75%;
+            /* float: left; */
+            bottom: 4px;
+            left: 50%;
+            /* margin-left: 45%; */
+            position: absolute;
+            /* margin-bottom: 20px; */
+            display: none;
+        }
+
+        .spiner {
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            margin: -10px 0 0 -20px;
+            display: inline-block;
+            position: relative;
+            height: 20px;
+            width: 40px;
+        }
+
+        .spiner>* {
+            position: absolute;
+            top: 5px;
+            height: 10px;
+            width: 10px;
+            border-radius: 50%;
+            /* background: #0074e4;*/
+            opacity: 0.6;
+            -webkit-transform: translateX(0px);
+            transform: translateX(0px);
+        }
+
+        .spiner>*:nth-child(1) {
+            left: 0;
+            -webkit-animation: mymove 1.3s infinite ease-in;
+            animation: mymove 1.3s infinite ease-in;
+        }
+
+        .spiner>*:nth-child(2) {
+            left: 12px;
+            -webkit-animation: mymove 1.3s 0.3s infinite ease-in;
+            animation: mymove 1.3s 0.3s infinite ease-in;
+        }
+
+        .spiner>*:nth-child(3) {
+            left: 24px;
+            -webkit-animation: mymove 1.3s 0.6s infinite ease-in;
+            animation: mymove 1.3s 0.6s infinite ease-in;
+        }
+
+        @-webkit-keyframes mymove {
+
+            0%,
+            100%,
+            80% {
+                opacity: 0.6;
+                -webkit-transform: scale(0.4);
+            }
+
+            40% {
+                opacity: 1;
+                -webkit-transform: scale(1);
+            }
+        }
+
+        @keyframes mymove {
+
+            0%,
+            100%,
+            80% {
+                opacity: 0.6;
+                transform: scale(0.4);
+            }
+
+            40% {
+                opacity: 1;
+                transform: scale(1);
+            }
+        }
+    </style>
+
+    <style>
+        .newCardsSolution,
+        .newCardsSolution::before,
+        .newCardsSolution::after {
+            box-sizing: border-box;
+        }
+
+        .newCardsSolution {
+            background-color: #f0f0f0;
+        }
+
+        .newCardsSolution {
+            color: #999999;
+            font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            font-style: normal;
+            font-weight: 400;
+            letter-spacing: 0;
+            padding: 1rem;
+            text-rendering: optimizeLegibility;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+            -moz-font-feature-settings: "liga" on;
+        }
+
+        .newCardsSolution img {
+            height: auto;
+            max-width: 100%;
+            vertical-align: middle;
+        }
+
+        .newCardsSolution .btn {
+            background-color: white;
+            border: 1px solid #cccccc;
+            /* border-radius: 1rem; */
+            color: #696969;
+            padding: 0.5rem;
+            text-transform: lowercase;
+        }
+
+        .newCardsSolution .btn--block {
+            display: block;
+            width: 100%;
+        }
+
+        .newCardsSolution .cards {
+            display: flex;
+            flex-wrap: wrap;
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        .newCardsSolution .cards__item {
+            display: flex;
+            padding: 1rem;
+
+            @media(min-width: 40rem) {
+                width: 50%;
+            }
+
+            @media(min-width: 56rem) {
+                width: 33.3333%;
+            }
+        }
+
+        .newCardsSolution .card {
+            background-color: white;
+            border-radius: 0.25rem;
+            box-shadow: 0 20px 40px -14px rgba(0, 0, 0, 0.25);
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+
+            &:hover {
+                .card__image {
+                    filter: contrast(100%);
+                }
+            }
+        }
+
+        .newCardsSolution .card__content {
+            display: flex;
+            flex: 1 1 auto;
+            flex-direction: column;
+            padding: 1rem;
+        }
+
+        .newCardsSolution .card__image {
+            background-position: center center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            border-top-left-radius: 0.25rem;
+            border-top-right-radius: 0.25rem;
+            filter: contrast(70%);
+            /* //filter: saturate(180%); */
+            overflow: hidden;
+            position: relative;
+            transition: filter 0.5s cubic-bezier(.43, .41, .22, .91);
+            ;
+
+            &::before {
+                content: "";
+                display: block;
+                padding-top: 56.25%;
+                /* // 16:9 aspect ratio */
+            }
+
+            @media(min-width: 40rem) {
+                &::before {
+                    padding-top: 66.6%;
+                    /* // 3:2 aspect ratio */
+                }
+            }
+        }
+
+        .newCardsSolution .card__image--flowers {
+            background-image: url(https://unsplash.it/800/600?image=82);
+        }
+
+        .newCardsSolution .card__image--river {
+            background-image: url(https://unsplash.it/800/600?image=11);
+        }
+
+        .newCardsSolution .card__image--record {
+            background-image: url(https://unsplash.it/800/600?image=39);
+        }
+
+        .newCardsSolution .card__image--fence {
+            background-image: url(https://unsplash.it/800/600?image=59);
+        }
+
+        .newCardsSolution .card__title {
+            color: #696969;
+            font-size: 1.25rem;
+            font-weight: 300;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+        }
+
+        .newCardsSolution .card__text {
+            flex: 1 1 auto !important;
+            font-size: 0.875rem !important;
+            line-height: 1.5 !important;
+            margin-bottom: 1.25rem !important;
+            color: #050801 !important;
+        }
+    </style>
+</head>
+
+
+<body>
+    <div class="newCardsSolution">
+        <ul class="cards">
+            <li class="cards__item">
+                <div class="card">
+                    <div class="card__image card__image--fence"></div>
+                    <div class="card__content">
+                        <div class="card__title">Flex</div>
+                        <p class="card__text">This is the shorthand for flex-grow, flex-shrink and flex-basis combined.
+                            The second and third parameters (flex-shrink and flex-basis) are optional. Default is 0 1
+                            auto. </p>
+                        <button class="btn btn--block card__btn">Button</button>
+                    </div>
+                </div>
+            </li>
+            <li class="cards__item">
+                <div class="card">
+                    <div class="card__image card__image--river"></div>
+                    <div class="card__content">
+                        <div class="card__title">Flex Grow</div>
+                        <p class="card__text">This defines the ability for a flex item to grow if necessary. It accepts
+                            a unitless value that serves as a proportion. It dictates what amount of the available space
+                            inside the flex container the item should take up.</p>
+                        <button class="btn btn--block card__btn">Button</button>
+                    </div>
+                </div>
+            </li>
+            <li class="cards__item">
+                <div class="card">
+                    <div class="card__image card__image--record"></div>
+                    <div class="card__content">
+                        <div class="card__title">Flex Shrink</div>
+                        <p class="card__text">This defines the ability for a flex item to shrink if necessary. Negative
+                            numbers are invalid.</p>
+                        <button class="btn btn--block card__btn">Button</button>
+                    </div>
+                </div>
+            </li>
+            <li class="cards__item">
+                <div class="card">
+                    <div class="card__image card__image--flowers"></div>
+                    <div class="card__content">
+                        <div class="card__title">Flex Basis</div>
+                        <p class="card__text">This defines the default size of an element before the remaining space is
+                            distributed. It can be a length (e.g. 20%, 5rem, etc.) or a keyword. The auto keyword means
+                            "look at my width or height property."</p>
+                        <button class="btn btn--block card__btn">Button</button>
+                    </div>
+                </div>
+            </li>
+        </ul>
+    </div>
+
+
+
+</body>

@@ -1,0 +1,1187 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>AeroTEC &mdash; Technical Training</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Free HTML5 Website Template by " />
+	<meta name="keywords"
+		content="free website templates, free html5, free template, free bootstrap, free website template, html5, css3, mobile first, responsive" />
+	<meta name="author" content="" />
+
+	<!--
+	//////////////////////////////////////////////////////
+
+	FREE HTML5 TEMPLATE
+	DESIGNED & DEVELOPED by
+
+	Website:
+	Email: 			info@
+	Twitter: 		http://twitter.com/fh5co
+	Facebook: 		https://www.facebook.com/fh5co
+
+	//////////////////////////////////////////////////////
+	 -->
+
+	<!-- Facebook and Twitter integration -->
+	<meta property="og:title" content="" />
+	<meta property="og:image" content="" />
+	<meta property="og:url" content="" />
+	<meta property="og:site_name" content="" />
+	<meta property="og:description" content="" />
+	<meta name="twitter:title" content="" />
+	<meta name="twitter:image" content="" />
+	<meta name="twitter:url" content="" />
+	<meta name="twitter:card" content="" />
+
+	<link href="https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,300i,400,400i,500,600i,700"
+		rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Satisfy" rel="stylesheet">
+
+	<!-- Animate.css -->
+	<link rel="stylesheet" href="css/animate.css">
+	<!-- Icomoon Icon Fonts-->
+	<link rel="stylesheet" href="css/icomoon.css">
+	<!-- Bootstrap  -->
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<!-- Flexslider  -->
+	<link rel="stylesheet" href="css/flexslider.css">
+
+	<!-- Theme style  -->
+	<link rel="stylesheet" href="css/style.css">
+
+	<!-- Modernizr JS -->
+	<script src="js/modernizr-2.6.2.min.js"></script>
+	<!-- FOR IE9 below -->
+	<!--[if lt IE 9]>
+	<script src="js/respond.min.js"></script>
+	<![endif]-->
+	<style>
+		@media screen and (max-width: 480px) {
+
+			.newSection {
+				height: 120vh !important;
+			}
+		}
+
+		@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap');
+
+		.newSection {
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			flex-wrap: wrap;
+			height: 100vh;
+			background: #323438;
+			font-family: 'Raleway', sans-serif;
+			font-weight: bold;
+		}
+
+		.newSection a {
+			position: relative;
+			display: inline-block;
+			padding: 25px 30px;
+			margin: 40px 0;
+			color: #03e9f4;
+			text-decoration: none;
+			text-transform: uppercase;
+			transition: 0.5s;
+			letter-spacing: 4px;
+			overflow: hidden;
+			margin-right: 50px;
+
+		}
+
+		.newSection a:hover {
+			background: #03e9f4;
+			color: #050801;
+			box-shadow: 0 0 5px #03e9f4,
+				0 0 25px #03e9f4,
+				0 0 50px #03e9f4,
+				0 0 200px #03e9f4;
+			-webkit-box-reflect: below 1px linear-gradient(transparent, #0005);
+		}
+
+		.newSection a:nth-child(1) {
+			filter: hue-rotate(270deg);
+		}
+
+		.newSection a:nth-child(2) {
+			filter: hue-rotate(110deg);
+		}
+
+		.newSection a:nth-child(3) {
+			filter: hue-rotate(222deg)
+		}
+
+		.newSection a:nth-child(4) {
+			filter: hue-rotate(180deg)
+		}
+
+		.newSection a span {
+			position: absolute;
+			display: block;
+		}
+
+		.newSection a span:nth-child(1) {
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 2px;
+			background: linear-gradient(90deg, transparent, #03e9f4);
+			animation: animate1 1s linear infinite;
+		}
+
+		@keyframes animate1 {
+			0% {
+				left: -100%;
+			}
+
+			50%,
+			100% {
+				left: 100%;
+			}
+		}
+
+		.newSection a span:nth-child(2) {
+			top: -100%;
+			right: 0;
+			width: 2px;
+			height: 100%;
+			background: linear-gradient(180deg, transparent, #03e9f4);
+			animation: animate2 1s linear infinite;
+			animation-delay: 0.25s;
+		}
+
+		@keyframes animate2 {
+			0% {
+				top: -100%;
+			}
+
+			50%,
+			100% {
+				top: 100%;
+			}
+		}
+
+		.newSection a span:nth-child(3) {
+			bottom: 0;
+			right: 0;
+			width: 100%;
+			height: 2px;
+			background: linear-gradient(270deg, transparent, #03e9f4);
+			animation: animate3 1s linear infinite;
+			animation-delay: 0.50s;
+		}
+
+		@keyframes animate3 {
+			0% {
+				right: -100%;
+			}
+
+			50%,
+			100% {
+				right: 100%;
+			}
+		}
+
+
+		.newSection a span:nth-child(4) {
+			bottom: -100%;
+			left: 0;
+			width: 2px;
+			height: 100%;
+			background: linear-gradient(360deg, transparent, #03e9f4);
+			animation: animate4 1s linear infinite;
+			animation-delay: 0.75s;
+		}
+
+		@keyframes animate4 {
+			0% {
+				bottom: -100%;
+			}
+
+			50%,
+			100% {
+				bottom: 100%;
+			}
+		}
+	</style>
+	<script defer src="https://use.fontawesome.com/releases/v5.15.4/js/all.js"
+		integrity="sha384-rOA1PnstxnOBLzCLMcre8ybwbTmemjzdNlILg8O7z1lUkLXozs4DHonlDtnE7fpc"
+		crossorigin="anonymous"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Sans:400,700">
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<style>
+		.rightside {
+			float: right;
+		}
+
+		.singleRec {
+			width: fit-content;
+			background: #666;
+			color: white;
+			border-radius: 25px;
+			padding: 5px;
+			cursor: pointer;
+			margin-left: 10px;
+
+		}
+
+		.chat-circle_robot {
+			/*     margin-left: -7%; */
+			display: block;
+			margin-left: 1px;
+		}
+
+		.chat-box-overlay_robot {
+			margin-left: -3px;
+		}
+
+		.chat-box-welcome_robot {
+			margin-left: -10px;
+		}
+
+		/* ---------- GENERAL STYLE---------- */
+
+		.chat-box-welcome__company-name,
+		.chat-box__sign {
+			font-family: 'Roboto', 'Helvetica Neue', "Arial", sans-serif;
+			position: relative;
+		}
+
+
+		/*powered by deeppixel*/
+
+		.chat-box__sign {
+			font-size: 9px;
+			line-height: 20px;
+			/*color: #a2a2a2;*/
+			color: #b5b5b5;
+		}
+
+		.chat-input-box {
+			text-align: center;
+			position: relative;
+		}
+
+		.btn#my-btn {
+			background: white;
+			padding-top: 13px;
+			padding-bottom: 12px;
+			border-radius: 45px;
+			padding-right: 40px;
+			padding-left: 40px;
+			color: #5865C3;
+		}
+
+
+		/*color to change*/
+
+		#chat-circle,
+		.chat-box-welcome__header,
+		.chat-box-header,
+		.chat-msg.bot>.msg-avatar {
+			/*red*/
+			/*background-image: linear-gradient( to top right, rgba(246, 72, 72, 1), rgba(250, 65, 95, 1));*/
+			/*pink-blue*/
+			/*background-image: linear-gradient( to top left, rgba(252, 123, 123, 1), rgba(166, 193, 255, 1));*/
+			/*pink-red*/
+			background-image: linear-gradient(to bottom right, rgba(168, 224, 99, 1), rgba(246, 72, 72, 1));
+		}
+
+		.options-btn {
+			border: 1px solid rgba(246, 72, 72, 1);
+		}
+
+		.spiner>* {
+			background: rgba(246, 72, 72, 1);
+		}
+
+		/*.options-btn:hover{
+   background-image: linear-gradient( to bottom right, rgba(240, 149, 255, 1), rgba(246, 72, 72, 1));
+
+	color: white;
+}*/
+
+		/* ---------- chat-bot-button to open chat---------- */
+
+		#chat-circle {
+			position: fixed;
+			bottom: 50px;
+			/*right: 50px;*/
+			right: 50px;
+			width: 80px;
+			height: 80px;
+			border-radius: 50%;
+			color: white;
+			padding: 15px;
+			cursor: pointer;
+			/*box-shadow: 0px 3px 16px 0px rgba(0, 0, 0, 0.6), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);*/
+			box-shadow: 0px 3px 16px 0px rgba(246, 72, 72, 0.5), 0 3px 1px -2px rgba(246, 72, 72, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+			/*remove display none*/
+			/*display: none;*/
+		}
+
+
+		/*#chat-circle .material-icons {
+	font-size: 36px;
+}*/
+
+		#chat-overlay {
+			background: rgba(255, 255, 255, 0.1);
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			border-radius: 50%;
+			display: none;
+		}
+
+		.chat-circle_robot {
+			height: 50px;
+		}
+
+
+		/*chat-bot-welcome*/
+
+		.chat-box-welcome {
+			/*add display none*/
+			/* display: none;*/
+			/*background: #efefef;*/
+			background: #f8f8f8;
+			position: fixed;
+			right: 30px;
+			bottom: 50px;
+			width: 350px;
+			max-width: 85vw;
+			max-height: 100vh;
+			border-radius: 3px;
+			/*   box-shadow: 0px 5px 35px 9px #464a92; */
+			box-shadow: 0px 5px 35px 9px #ccc;
+		}
+
+
+		.chat-box-welcome__header {
+			height: 420px;
+			border-top-left-radius: 3px;
+			border-top-right-radius: 3px;
+			display: none;
+		}
+
+		.chat-box__header-text {
+			color: white;
+			padding-left: 10px;
+			font-size: 20px;
+			padding-top: 13px;
+		}
+
+		#chat-box-welcome__ava {
+			background: rgba(0, 0, 0, 0.38);
+			border-radius: 50%;
+			position: absolute;
+			top: 98px;
+			left: 124px;
+			width: 100px;
+			height: 100px;
+			border-radius: 50%;
+			color: white;
+			padding: 22px;
+		}
+
+
+		/*#chat-box-welcome__ava .material-icons {
+	font-size: 64px;
+}*/
+
+		.chat-box-welcome_robot {
+			height: 75px;
+			position: absolute;
+			top: 12px;
+		}
+
+		.chat-box-welcome__welcome-text {
+			color: #fff;
+			text-align: center;
+			width: 80%;
+			position: relative;
+			top: 45%;
+			left: 50%;
+			transform: translateX(-50%);
+		}
+
+		.chat-box-welcome__welcome-text p {
+			font-size: 24px;
+		}
+
+
+		/*chat-box after welcome was togled*/
+
+		#chat-box__wraper {
+			display: none;
+		}
+
+		.chat-box {
+			/*add display none*/
+			z-index: 1002;
+			display: none;
+			/*background: #efefef;*/
+			background: #f8f8f8;
+			position: fixed;
+			/* right: 30px;*/
+			right: 30px;
+			bottom: 50px;
+			width: 350px;
+			max-width: 85vw;
+			max-height: 100vh;
+			border-radius: 3px;
+			/*   box-shadow: 0px 5px 35px 9px #464a92; */
+			box-shadow: 0px 5px 35px 9px #ccc;
+		}
+
+		.chat-box-toggle {
+			float: right;
+			margin-right: 15px;
+			cursor: pointer;
+		}
+
+		.chat-box-header {
+			position: relative;
+			height: 50px;
+			border-top-left-radius: 3px;
+			border-top-right-radius: 3px;
+			color: white;
+			padding-left: 10px;
+			font-size: 20px;
+			padding-top: 13px;
+		}
+
+		.chat-box-body {
+			position: relative;
+			height: 370px;
+			height: auto;
+			border-bottom: 1px solid rgba(181, 181, 181, 0.42);
+			overflow: hidden;
+		}
+
+		.chat-box-body:after {
+			content: "";
+			background-color: #F8F8F8;
+			opacity: 0.1;
+			top: 0;
+			left: 0;
+			bottom: 0;
+			right: 0;
+			height: 100%;
+			position: absolute;
+			z-index: -1;
+		}
+
+		.chat-input__text {
+			background: #fff;
+			width: 95%;
+			position: relative;
+			height: 47px;
+			padding-top: 10px;
+			padding-right: 50px;
+			padding-bottom: 10px;
+			padding-left: 15px;
+			margin-top: 5px;
+			resize: none;
+			outline: none;
+			border: 1px solid #F2F0F0;
+			color: #888;
+			border-radius: 3px;
+			overflow: hidden;
+		}
+
+		.chat-input-box>form {
+			margin-bottom: 0;
+		}
+
+		.chat-input__text::-webkit-input-placeholder {
+			/* Chrome/Opera/Safari */
+			color: #ccc;
+		}
+
+		.chat-input__text::-moz-placeholder {
+			/* Firefox 19+ */
+			color: #ccc;
+		}
+
+		.chat-input__text:-ms-input-placeholder {
+			/* IE 10+ */
+			color: #ccc;
+		}
+
+		.chat-input__text:-moz-placeholder {
+			/* Firefox 18- */
+			color: #ccc;
+		}
+
+		.chat-submit {
+			position: absolute;
+			bottom: 100px;
+			right: 10px;
+			background: transparent;
+			box-shadow: none;
+			border: none;
+			border-radius: 50%;
+			color: rgba(250, 65, 95, 0.99);
+			width: 35px;
+			height: 35px;
+		}
+
+		.chat-logs {
+			padding: 15px;
+			height: 370px;
+			overflow-y: scroll;
+		}
+
+		@media only screen and (max-width: 500px) {
+			.chat-logs {
+				height: 40vh;
+			}
+		}
+
+		.chat-msg.bot>.msg-avatar {
+			width: 45px !important;
+			height: 50px;
+			border-radius: 50%;
+			float: left;
+			width: 15%;
+			padding: 6px;
+			position: relative;
+		}
+
+		.msg-avatar>img {
+			width: 40px !important;
+			height: 40px;
+			border-radius: 100%;
+		}
+
+
+		/*.chat-msg.bot>.msg-avatar .material-icons {
+	color: #fff;
+	font-size: 25px;
+}*/
+
+		.chat-box-overlay_robot {
+			height: 35px;
+			position: absolute;
+			top: 5px;
+		}
+
+
+		/*.chat-msg.self>.msg-avatar img {
+	width: 45px;
+	height: 45px;
+	border-radius: 50%;
+	float: right;
+	width: 15%;
+}*/
+
+		.cm-msg-text {
+			background: white;
+			padding: 10px 15px 10px 15px;
+			color: #666;
+			max-width: 75%;
+			float: left;
+			margin-left: 10px;
+			position: relative;
+			margin-bottom: 20px;
+			border-radius: 3px;
+		}
+
+		.options-btn {
+			background: white;
+			padding: 10px 15px 10px 15px;
+			color: #666;
+			width: 75%;
+			margin-left: 55px;
+			position: relative;
+			margin-bottom: 20px;
+			border-radius: 3px;
+			text-align: center;
+		}
+
+
+		.chat-msg {
+			clear: both;
+		}
+
+		.chat-msg.self>.cm-msg-text {
+			float: right;
+			background: #efefef;
+			/*color: white;*/
+		}
+
+		.cm-msg-button>ul>li {
+			list-style: none;
+			float: left;
+			width: 50%;
+		}
+
+		.cm-msg-button {
+			clear: both;
+			margin-bottom: 70px;
+		}
+
+
+		/*loader*/
+
+
+		.spin-container {
+			/* padding: 0px 15px 0px 15px; */
+			color: #666;
+			max-width: 75%;
+			/* float: left; */
+			bottom: 4px;
+			left: 50%;
+			/* margin-left: 45%; */
+			position: absolute;
+			/* margin-bottom: 20px; */
+			display: none;
+		}
+
+		.spiner {
+			position: absolute;
+			left: 50%;
+			top: 50%;
+			margin: -10px 0 0 -20px;
+			display: inline-block;
+			position: relative;
+			height: 20px;
+			width: 40px;
+		}
+
+		.spiner>* {
+			position: absolute;
+			top: 5px;
+			height: 10px;
+			width: 10px;
+			border-radius: 50%;
+			/* background: #0074e4;*/
+			opacity: 0.6;
+			-webkit-transform: translateX(0px);
+			transform: translateX(0px);
+		}
+
+		.spiner>*:nth-child(1) {
+			left: 0;
+			-webkit-animation: mymove 1.3s infinite ease-in;
+			animation: mymove 1.3s infinite ease-in;
+		}
+
+		.spiner>*:nth-child(2) {
+			left: 12px;
+			-webkit-animation: mymove 1.3s 0.3s infinite ease-in;
+			animation: mymove 1.3s 0.3s infinite ease-in;
+		}
+
+		.spiner>*:nth-child(3) {
+			left: 24px;
+			-webkit-animation: mymove 1.3s 0.6s infinite ease-in;
+			animation: mymove 1.3s 0.6s infinite ease-in;
+		}
+
+		@-webkit-keyframes mymove {
+
+			0%,
+			100%,
+			80% {
+				opacity: 0.6;
+				-webkit-transform: scale(0.4);
+			}
+
+			40% {
+				opacity: 1;
+				-webkit-transform: scale(1);
+			}
+		}
+
+		@keyframes mymove {
+
+			0%,
+			100%,
+			80% {
+				opacity: 0.6;
+				transform: scale(0.4);
+			}
+
+			40% {
+				opacity: 1;
+				transform: scale(1);
+			}
+		}
+	</style>
+
+	<style>
+		.newFooter textarea {
+			resize: none;
+		}
+
+		.newFooter .text {
+			color: white;
+			font-size: 20px;
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+			-ms-transform: translate(-50%, -50%);
+			white-space: nowrap;
+		}
+
+
+		.newFooter .svg-inline--fa {
+			vertical-align: -0.200em;
+		}
+
+		.newFooter .rounded-social-buttons {
+			margin-top: 4%;
+			width: 50%;
+			text-align: center;
+		}
+
+		.newFooter .rounded-social-buttons .social-button {
+			display: inline-block;
+			position: relative;
+			cursor: pointer;
+			width: 3.125rem;
+			height: 3.125rem;
+			border: 0.125rem solid transparent;
+			padding: 0;
+			text-decoration: none;
+			text-align: center;
+			color: #fefefe;
+			font-size: 1.5625rem;
+			font-weight: normal;
+			line-height: 2em;
+			border-radius: 1.6875rem;
+			transition: all 0.5s ease;
+			margin-right: 0.25rem;
+			margin-bottom: 0.25rem;
+		}
+
+		.newFooter .rounded-social-buttons .social-button:hover,
+		.newFooter .rounded-social-buttons .social-button:focus {
+			-webkit-transform: rotate(360deg);
+			-ms-transform: rotate(360deg);
+			transform: rotate(360deg);
+		}
+
+		.newFooter .rounded-social-buttons .fa-twitter,
+		.newFooter .fa-facebook-f,
+		.newFooter .fa-linkedin-in,
+		.newFooter .fa-tiktok,
+		.newFooter .fa-youtube,
+		.newFooter .fa-instagram {
+			font-size: 25px;
+		}
+
+		.newFooter .rounded-social-buttons .social-button.facebook {
+			background: #3b5998;
+		}
+
+		.newFooter .rounded-social-buttons .social-button.facebook:hover,
+		.newFooter .rounded-social-buttons .social-button.facebook:focus {
+			color: #3b5998;
+			background: #fefefe;
+			border-color: #3b5998;
+		}
+
+		.newFooter .rounded-social-buttons .social-button.twitter {
+			background: #55acee;
+		}
+
+		.newFooter .rounded-social-buttons .social-button.twitter:hover,
+		.newFooter .rounded-social-buttons .social-button.twitter:focus {
+			color: #55acee;
+			background: #fefefe;
+			border-color: #55acee;
+		}
+
+		.newFooter .rounded-social-buttons .social-button.linkedin {
+			background: #007bb5;
+		}
+
+		.newFooter .rounded-social-buttons .social-button.linkedin:hover,
+		.newFooter .rounded-social-buttons .social-button.linkedin:focus {
+			color: #007bb5;
+			background: #fefefe;
+			border-color: #007bb5;
+		}
+
+		.newFooter .rounded-social-buttons .social-button.tiktok {
+			background: green;
+		}
+
+		.newFooter .rounded-social-buttons .social-button.tiktok:hover,
+		.newFooter .rounded-social-buttons .social-button.tiktok:focus {
+			color: #000000;
+			background: #fefefe;
+			border-color: #000000;
+		}
+
+		.newFooter .rounded-social-buttons .social-button.youtube {
+			background: #bb0000;
+		}
+
+		.newFooter .rounded-social-buttons .social-button.youtube:hover,
+		.newFooter .rounded-social-buttons .social-button.youtube:focus {
+			color: #bb0000;
+			background: #fefefe;
+			border-color: #bb0000;
+		}
+
+		.newFooter .rounded-social-buttons .social-button.instagram {
+			background: pink;
+		}
+
+		.newFooter .rounded-social-buttons .social-button.instagram:hover,
+		.newFooter .rounded-social-buttons .social-button.instagram:focus {
+			color: pink;
+			background: #fefefe;
+			border-color: pink;
+		}
+	</style>
+</head>
+
+<body>
+
+
+	<div id="mainContent">
+
+	</div>
+	<div id="chat-circle" class="btn btn-raised">
+		<div id="chat-overlay"></div>
+		<!--<i class="material-icons">android</i>-->
+		<img class="chat-circle_robot" src="https://cdn.iconscout.com/icon/free/png-256/robot-86-404724.png">
+	</div>
+
+	<!--chat-bot-->
+	<div class="chat-box">
+		<div class="chat-box-body">
+			<!--welcome message-->
+			<div class="chat-box-welcome__header">
+				<div class="chat-box__header-text">
+					<p3 class="chat-box-welcome__company-name">ChatBot</p3>
+					<span class="chat-box-toggle"><i class="material-icons">cancel</i></span>
+				</div>
+
+				<div id="chat-box-welcome__ava">
+					<!--<i class="material-icons">android</i>-->
+					<img class="chat-box-welcome_robot"
+						src="https://cdn.iconscout.com/icon/free/png-256/robot-86-404724.png">
+				</div>
+
+				<!--<div id="chat">
+
+				</div>-->
+			</div>
+
+
+
+
+
+
+			<!--chat-bot after welcome was toggled-->
+			<div id="chat-box__wraper">
+				<div class="chat-box-header">
+					ChatBot
+					<span class="chat-box-toggle"><i class="material-icons">cancel</i></span>
+				</div>
+
+
+
+				<div class="chat-box-overlay">
+				</div>
+				<div class="chat-logs">
+
+
+
+					<!--<div class="text-center"><p>loader 1</p><div class="loader1"></div></div>-->
+					<div class="spin-container">
+						<div class="spiner">
+							<div aria-hidden="true"></div>
+							<div aria-hidden="true"></div>
+							<div aria-hidden="true"></div>
+						</div>
+					</div>
+
+
+
+				</div>
+				<!--chat-log-->
+			</div>
+
+		</div>
+		<div class="chat-input-box" id="chatLog">
+			<form class="chat-input__form">
+				<input type="text" class="chat-input__text" id="chat-input__text" placeholder="Send a message..." />
+				<button type="submit" class="chat-submit" id="chat-submit">
+					<i class="material-icons">send</i>
+				</button>
+			</form>
+			<div id="recomendation" style=" display : flex ; flex-wrap:wrap ; height: 100px; overflow: scroll;">
+
+			</div>
+		</div>
+	</div>
+	<script src="js/technical trainingPageJS.js"></script>
+
+	<!-- jQuery -->
+	<script src="js/jquery.min.js"></script>
+	<!-- jQuery Easing -->
+	<script src="js/jquery.easing.1.3.js"></script>
+	<!-- Bootstrap -->
+	<script src="js/bootstrap.min.js"></script>
+	<!-- Waypoints -->
+	<script src="js/jquery.waypoints.min.js"></script>
+	<!-- Waypoints -->
+	<script src="js/jquery.stellar.min.js"></script>
+	<!-- Flexslider -->
+	<script src="js/jquery.flexslider-min.js"></script>
+	<!-- Main -->
+	<script src="js/main.js"></script>
+
+	<script>
+		var botController = (function () {
+
+
+		})();
+
+		var uiController = (function () {
+
+
+		})();
+
+
+
+
+		var controller = (function (botCntr, uiCntr) {
+			var $chatCircle,
+				$chatBox,
+				$chatBoxClose,
+				$chatBoxWelcome,
+				$chatWraper,
+				$submitBtn,
+				$chatInput,
+				$msg;
+
+			/*toggle*/
+			function hideCircle(evt) {
+				evt.preventDefault();
+				$chatCircle.hide('scale');
+				$chatBox.show('scale');
+				$chatBoxWelcome.show('scale');
+			}
+
+			function chatBoxCl(evt) {
+				evt.preventDefault();
+				$chatCircle.show('scale');
+				$chatBox.hide('scale');
+				$chatBoxWelcome.hide('scale');
+				$chatWraper.hide('scale');
+			}
+
+			function chatOpenMessage(evt) {
+				evt.preventDefault();
+				$chatBoxWelcome.hide();
+				$chatWraper.show();
+			}
+
+			//generate messages on submit click
+			function submitMsg(evt) {
+				evt.preventDefault();
+
+				//1. get input message data
+				msg = $chatSubmitBtn.val();
+
+				//2.if there is no string button send shoudn't work
+				if (msg.trim() == '') {
+					return false;
+				}
+				//3. add message to bot controller
+				callbot(msg);
+				//4. display message to ui controller
+				generate_message(msg, 'self');
+
+			}
+
+			function chatSbmBtn(evt) {
+				if (evt.keyCode === 13 || evt.which === 13) {
+					console.log("btn pushed");
+				}
+				$chatBoxWelcome.hide();
+				$chatWraper.show();
+			}
+			/* var input = uiCntr.getInput();*/
+			/* $chatSubmitBtn.on("click", hideCircle);*/
+
+
+
+			function init() {
+				$chatCircle = $("#chat-circle");
+				$chatBox = $(".chat-box");
+				$chatBoxClose = $(".chat-box-toggle");
+				$chatBoxWelcome = $(".chat-box-welcome__header");
+				$chatWraper = $("#chat-box__wraper");
+				$chatInput = $("#chat-input__text");
+				$submitBtn = $("#chat-submit");
+
+				//1. call toggle
+				$chatCircle.on("click", hideCircle);
+				$chatBoxClose.on("click", chatBoxCl);
+				$chatInput.on("click", chatOpenMessage);
+
+				//2. call wait message from CRM-human
+
+				$submitBtn.on("click", chatSbmBtn);
+				$chatInput.on("keypress", chatSbmBtn);
+
+
+				//6. get message from bot controller-back end
+				//7. display bot message to ui controller
+			}
+
+			return {
+				init: init
+			};
+
+		})(botController, uiController);
+
+
+		$('.chat-input__form').on('submit', function (e) {
+			e.preventDefault();
+			msg = $('.chat-input__text').val();
+			$('.chat-logs').append('<div id="cm-msg-0" class=" rightside chat-msg background-warning push-right bot"><div class="cm-msg-text">' + msg + '</div><span class="msg-avatar"><img class="chat-box-overlay_robot" src="images/8163243.png"></span></div>');
+			$('.chat-input__text').val('');
+			talk(msg)
+
+		});
+
+
+		$(document).ready(controller.init);
+		knowEN = {
+			"hello": "Hi there!",
+			"how are you?": "I'm just a computer program, but thanks for asking!",
+			"what is your name?": "I'm a chatbot powered by OpenAI.",
+			"tell me about Aero Training & Engineering Consulting": "At Aero Training & Engineering Consulting, we are dedicated to excellence in aviation training and engineering solutions...",
+			"who founded Aero Training & Engineering Consulting?": "Aero Training & Engineering Consulting was founded by passionate aviation professionals with extensive experience in airplane manufacturing, airline operations, and consultancy.",
+			"what services do you offer?": "We offer a comprehensive range of services tailored to meet the diverse needs of the aviation industry, including training and engineering solutions.",
+			"where are you located?": "Aero Training & Engineering Consulting operates globally, serving clients worldwide.",
+			"can I apply for training at AeroTEC?": "Yes, we welcome individuals and organizations to apply for our aviation training programs.",
+			"how can I contact Aero Training & Engineering Consulting?": "You can contact us through our website or reach out to our customer support for inquiries.",
+			"what types of aircraft do you specialize in?": "We specialize in various types of aircraft, providing expertise in training and engineering across the aviation spectrum.",
+			"are you hiring?": "We are always on the lookout for talented individuals. Check our careers page on the website for any open positions.",
+			"what makes AeroTEC unique?": "Aero Training & Engineering Consulting stands out due to our commitment to innovation, safety, and professionalism, coupled with a team of seasoned aviation professionals.",
+			"do you offer online training courses?": "Yes, we provide online training courses to make learning accessible to individuals around the world.",
+			"tell me about your engineering team": "Our engineering team consists of experienced professionals with a deep understanding of aviation technology and a track record of successful projects.",
+			"can you assist with aviation certifications?": "Absolutely, we can provide guidance and support for various aviation certifications.",
+			"what is the duration of your training programs?": "The duration of our training programs varies based on the specific course. You can find detailed information on our website or by contacting our team.",
+			"tell me about your customer support": "Our customer support team is dedicated to assisting clients with inquiries, providing information, and ensuring a smooth experience with our services.",
+			"do you offer consulting services for airlines?": "Yes, we offer consultancy services to airlines, leveraging our expertise to address their specific needs and challenges.",
+			"how long has AeroTEC been in operation?": "Aero Training & Engineering Consulting has been in operation for [insert number] years, delivering excellence in aviation training and engineering solutions.",
+			"what are the prerequisites for your training programs?": "Prerequisites vary depending on the specific training program. You can find detailed requirements on our website or by contacting our admissions team.",
+			// Additional Q&A pairs
+			"tell me about your safety measures during training": "We prioritize safety in all our training programs, implementing rigorous safety measures and adhering to industry standards.",
+			"can you customize training programs for companies?": "Yes, we offer customized training programs to meet the unique requirements of companies in the aviation industry.",
+			"are there any scholarships available for your training programs?": "We may have scholarship opportunities available. Check our website or contact our admissions team for the latest information.",
+			"how often do you update your training curriculum?": "We regularly update our training curriculum to incorporate the latest industry practices, technologies, and regulations.",
+			"what languages are your training programs available in?": "Our training programs are primarily offered in [insert languages]. If you have specific language preferences, please let us know, and we'll do our best to accommodate.",
+			// Add more Q&A pairs as needed
+		};
+		knowFR = {
+			"bonjour": "Salut !",
+			"comment ça va ?": "Je suis juste un programme informatique, mais merci de demander !",
+			"quel est ton nom ?": "Je suis un chatbot alimenté par OpenAI.",
+			"parle-moi d'Aero Training & Engineering Consulting": "Chez Aero Training & Engineering Consulting, nous sommes dédiés à l'excellence dans la formation aéronautique et les solutions d'ingénierie...",
+			"qui a fondé Aero Training & Engineering Consulting ?": "Aero Training & Engineering Consulting a été fondé par des professionnels passionnés de l'aviation avec une vaste expérience dans la fabrication d'avions, les opérations aériennes et le conseil.",
+			"quels services offrez-vous ?": "Nous proposons une gamme complète de services adaptés aux besoins diversifiés de l'industrie de l'aviation, notamment des solutions de formation et d'ingénierie.",
+			"où êtes-vous situé ?": "Aero Training & Engineering Consulting opère à l'échelle mondiale, au service de clients du monde entier.",
+			"puis-je postuler pour une formation chez AeroTEC ?": "Oui, nous accueillons les particuliers et les organisations pour postuler à nos programmes de formation en aviation.",
+			"comment puis-je contacter Aero Training & Engineering Consulting ?": "Vous pouvez nous contacter via notre site web ou contacter notre service client pour des demandes.",
+			"dans quels types d'aéronefs êtes-vous spécialisé ?": "Nous nous spécialisons dans divers types d'aéronefs, offrant une expertise en formation et en ingénierie à travers le spectre de l'aviation.",
+			"êtes-vous en train de recruter ?": "Nous sommes toujours à la recherche de personnes talentueuses. Consultez notre page carrières sur le site web pour toute offre d'emploi disponible.",
+			"qu'est-ce qui rend AeroTEC unique ?": "Aero Training & Engineering Consulting se distingue par notre engagement envers l'innovation, la sécurité et le professionnalisme, associé à une équipe de professionnels de l'aviation chevronnés.",
+			"proposez-vous des cours de formation en ligne ?": "Oui, nous proposons des cours de formation en ligne pour rendre l'apprentissage accessible aux personnes du monde entier.",
+			"parle-moi de ton équipe d'ingénierie": "Notre équipe d'ingénieurs est composée de professionnels expérimentés avec une compréhension approfondie de la technologie aéronautique et un historique de projets réussis.",
+			"pouvez-vous aider avec les certifications en aviation ?": "Absolument, nous pouvons fournir des conseils et un soutien pour diverses certifications en aviation.",
+			"quelle est la durée de vos programmes de formation ?": "La durée de nos programmes de formation varie en fonction du cours spécifique. Vous pouvez trouver des informations détaillées sur notre site web ou en contactant notre équipe.",
+			"parle-moi de votre service client": "Notre équipe de support client est dédiée à aider les clients avec des questions, fournir des informations et assurer une expérience fluide avec nos services.",
+			"offrez-vous des services de conseil aux compagnies aériennes ?": "Oui, nous offrons des services de conseil aux compagnies aériennes, exploitant notre expertise pour répondre à leurs besoins et défis spécifiques.",
+			"depuis combien de temps AeroTEC est-il en activité ?": "Aero Training & Engineering Consulting est en activité depuis [insérer le nombre] d'années, offrant l'excellence en formation aéronautique et en solutions d'ingénierie.",
+			"quels sont les prérequis pour vos programmes de formation ?": "Les prérequis varient en fonction du programme de formation spécifique. Vous pouvez trouver des exigences détaillées sur notre site web ou en contactant notre équipe des admissions.",
+			// Additional Q&A pairs
+			"parle-moi de vos mesures de sécurité pendant la formation": "Nous donnons la priorité à la sécurité dans tous nos programmes de formation, en mettant en œuvre des mesures de sécurité rigoureuses et en respectant les normes de l'industrie.",
+			"pouvez-vous personnaliser des programmes de formation pour les entreprises ?": "Oui, nous proposons des programmes de formation personnalisés pour répondre aux besoins uniques des entreprises de l'industrie de l'aviation.",
+			"y a-t-il des bourses disponibles pour vos programmes de formation ?": "Nous pouvons avoir des opportunités de bourses disponibles. Consultez notre site web ou contactez notre équipe des admissions pour les dernières informations.",
+			"à quelle fréquence mettez-vous à jour votre programme de formation ?": "Nous mettons régulièrement à jour notre programme de formation pour intégrer les dernières pratiques, technologies et réglementations de l'industrie.",
+			"dans quelles langues vos programmes de formation sont-ils disponibles ?": "Nos programmes de formation sont principalement disponibles en [insérer les langues]. Si vous avez des préférences linguistiques spécifiques, veuillez nous le faire savoir, et nous ferons de notre mieux pour accommoder.",
+			// Add more Q&A pairs as needed
+		};
+		let rc = document.getElementById("recomendation");
+		if (localStorage.getItem("lang") == "fr") {
+			Object.keys(knowFR).forEach((element) => {
+				rc.innerHTML += `<h6  class="singleRec" onclick="useRec('${element}' )" > ${element}  </h6>`
+			});
+
+
+		} else {
+			Object.keys(knowEN).forEach((element) => {
+
+				rc.innerHTML += `<h6  class="singleRec" onclick="useRec('${element}' )" > ${element}  </h6>`
+			});
+
+		}
+
+		function useRec(recValue) {
+			$('.chat-input__text').val(recValue);
+		}
+		function talk(user) {
+			let know
+			let messageIDK = "i am sorry i don't know the answer"
+			if (localStorage.getItem("lang") == "fr") {
+				know = knowFR;
+				messageIDK = "je suis désolé, je ne connais pas la réponse"
+			} else {
+				know = knowEN;
+				messageIDK = "i am sorry i don't know the answer"
+			}
+
+			if (user in know) {
+				document.getElementsByClassName("chat-logs")[0].innerHTML += `<div id="cm-msg-0" class="chat-msg bot">
+				<span class="msg-avatar">
+				  <!--<i class="material-icons">android</i>-->
+				  <img class="chat-box-overlay_robot" src="https://cdn.iconscout.com/icon/free/png-256/robot-86-404724.png">
+				</span>
+				<div class="cm-msg-text">
+				  ${know[user]}
+				</div>
+			  </div>`
+			}
+			else {
+				document.getElementsByClassName("chat-logs")[0].innerHTML += `<div id="cm-msg-0" class="chat-msg bot">
+				<span class="msg-avatar">
+				  <!--<i class="material-icons">android</i>-->
+				  <img class="chat-box-overlay_robot" src="https://cdn.iconscout.com/icon/free/png-256/robot-86-404724.png">
+				</span>
+				<div class="cm-msg-text">
+				  ${messageIDK}
+				</div>
+			  </div>`  ;
+			}
+			const chatLogsElement = document.getElementsByClassName("chat-logs")[0];
+			chatLogsElement.scrollTop = chatLogsElement.scrollHeight;
+
+		}
+	</script>
+
+</body>
+
+</html>
