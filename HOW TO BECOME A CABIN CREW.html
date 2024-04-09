@@ -1321,42 +1321,6 @@
         <script src="js/main.js"></script>
 
 
-        <script>
-            const carouselWrapper = document.getElementById('carouselWrapper');
-            const carouselWrapper1 = document.getElementById('carouselWrapper1');
-
-            let currentIndex = 0;
-
-            function prev() {
-                currentIndex = Math.max(currentIndex - 4, 0);
-                updateCarousel();
-            }
-
-            function next() {
-                const maxIndex = Math.ceil(carouselWrapper.children.length / 4) * 4 - 4;
-                currentIndex = Math.min(currentIndex + 4, maxIndex);
-                updateCarousel();
-            }
-            let i = 0
-            setInterval(() => {
-                i += 1
-                if (i % 3 != 0) {
-                    next()
-                } else {
-                    prev()
-                    prev()
-                }
-            }, 4000)
-
-            function updateCarousel() {
-                carouselWrapper.style.transform = `translateX(${-currentIndex * 25}%)`;
-                carouselWrapper1.style.transform = `translateX(${-currentIndex * 25}%)`;
-            }
-
-
-
-
-        </script>
 
         <script>
             var botController = (function () {
