@@ -1,23 +1,30 @@
 setTimeout(() => {
-	document.getElementById("nav0bt").addEventListener("click", function (e) {
-		e.preventDefault();
+	try {
 
-	});
-	document.getElementById("nav1bt").addEventListener("click", function (e) {
-		e.preventDefault();
-	});
-	document.getElementById("nav2bt").addEventListener("click", function (e) {
-		e.preventDefault();
-	});
 
-	var screenWidth = window.innerWidth;
-	if (screenWidth <= 768) {
-		var elements = document.querySelectorAll('.dpdn');
+		document.getElementById("nav0bt").addEventListener("click", function (e) {
+			e.preventDefault();
 
-		// Loop through each element and remove the class
-		elements.forEach(function (element) {
-			element.classList.remove('dpdn');
 		});
+		document.getElementById("nav1bt").addEventListener("click", function (e) {
+			e.preventDefault();
+		});
+		document.getElementById("nav2bt").addEventListener("click", function (e) {
+			e.preventDefault();
+		});
+
+		var screenWidth = window.innerWidth;
+		if (screenWidth <= 768) {
+			var elements = document.querySelectorAll('.dpdn');
+
+			// Loop through each element and remove the class
+			elements.forEach(function (element) {
+				element.classList.remove('dpdn');
+			});
+		}
+
+	} catch (error) {
+
 	}
 }, 1000);
 
