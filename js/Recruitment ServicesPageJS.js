@@ -170,7 +170,7 @@ const set2english = () => {
 
 					<div class="col-md-2"></div>
 					<div style="text-align: center;" class="col-md-8">
-						<div style="font-size: xx-large;color: #bd9973;"> Aerviva — Engineering and Aviation
+						<div style="font-size: xx-large;color: #bd9973;"> AeroTec — Engineering and Aviation
 							Professional careers </div>
 						<div style="  font-size: larger; padding:5%; color:white"> Our team recruits for a variety of aviation
 							organizations that are responsible for
@@ -234,7 +234,7 @@ const set2english = () => {
 
 					<div class="col-md-2"></div>
 					<div style="text-align: center;" class="col-md-8">
-						<div style="font-size: xx-large;color: #bd9973;"> Aerviva — the choice of aviation professionals
+						<div style="font-size: xx-large;color: #bd9973;"> AeroTec — the choice of aviation professionals
 						</div>
 						<div style="  font-size: larger; padding:5%; color:white">With over 10 years’ experience delivering aviation
 							personnel staffing and recruitment solutions, we have the courage and understanding to do
@@ -295,7 +295,7 @@ const set2english = () => {
 								<div class="accordion-item">
 									<div class="accordion-header" onclick="toggleAccordion(1)">
 										<h3 style="color:#bd9973 ;">What kind of technical & aviation professional roles
-											do Aerviva recruit for?</h3>
+											do AeroTec recruit for?</h3>
 									</div>
 									<div class="accordion-content" id="accordionContent1">
 										<div style="padding:5%">
@@ -352,7 +352,7 @@ const set2english = () => {
 								<div class="accordion-item">
 									<div class="accordion-header" onclick="toggleAccordion(4)">
 										<h3 style="color:#bd9973 ;">What shall I do if I have applied for a job on the
-											Aerviva website but haven’t heard back yet?</h3>
+											AeroTec website but haven’t heard back yet?</h3>
 									</div>
 									<div class="accordion-content" id="accordionContent4">
 										<div style="padding:5%">
@@ -421,7 +421,7 @@ const set2english = () => {
 											<h3 style="color: #bd9973;">B2 Technician
 											</h3>
 											<span class="fh5co-price"><sup>MRO Organization</sup></span>
-											<p>“Aerviva helped me to secure my first flight engineer job at a global MRO
+											<p>“AeroTec helped me to secure my first flight engineer job at a global MRO
 												provider and I’ve kept on growing here. Their relationship with the team
 												helped to move things along quickly and I haven’t looked back since!”
 											</p>
@@ -432,7 +432,7 @@ const set2english = () => {
 
 											<h3 style="color: #bd9973;">B1 Technician</h3>
 											<span class="fh5co-price"><sup>Airline</sup></span>
-											<p>“My representative at Aerviva had a brilliant contact within a large ACMI
+											<p>“My representative at AeroTec had a brilliant contact within a large ACMI
 												airline where they needed to fill a number of aviation maintenance jobs.
 												I’m now working with Airbus aircraft daily, and I couldn’t be happier in
 												my role.”</p>
@@ -447,7 +447,7 @@ const set2english = () => {
 											<span class="fh5co-price"><sup>MRO Organization
 												</sup></span>
 											<p>“Since taking my new role I’ve been involved with some pretty exciting
-												aircraft maintenance engineering projects. Aerviva has helped place me
+												aircraft maintenance engineering projects. AeroTec has helped place me
 												into a role that has given me so much variety and opportunity and it’s
 												been a revelation really!”</p>
 										</div>
@@ -479,7 +479,7 @@ const set2english = () => {
 									<li><a href="technical training.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Prestations de service</font></font></a></li>
 								</ul>
 							</div>
-		
+
 							<div class="col-md-2 col-md-push-1 fh5co-widget">
 								<h4><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Catégories</font></font></h4>
 								<div style="display: flex;">
@@ -489,28 +489,28 @@ const set2english = () => {
 										<li><a href="/BASE MAINTENANCE SUPPORT & OVERSIGHT SERVICE.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Représentant de l'entretien de la base</font></font></a></li>
 										<li><a href="/engineering service.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Support technique</font></font></a></li>
 									</ul>
-		
+
 								</div>
 							</div>
 							<div class="col-md-2 col-md-push-1 fh5co-widget">
 								<h4><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Catégories</font></font></h4>
 								<div style="display: flex;">
-		
+
 									<ul class="fh5co-footer-links">
 										<li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Examen EASA partie 66</font></font></a></li>
 										<li><a href="type rating courses.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">COURS DE QUALIFICATION DE TYPE</font></font></a></li>
-		
+
 									</ul>
 								</div>
 							</div>
-		
+
 							<div class="col-md-4 col-md-push-1 fh5co-widget">
 								<h4><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Coordonnées</font></font></h4>
 								<ul class="fh5co-footer-links">
 									<li><a href="tel://212698977462"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+212698977462</font></font></a></li>
 									<li><a href="mailto:contact@aerotecsupport.com"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">contact@aerotecsupport.com</font></font></a></li>
 								</ul>
-		
+
 								<div class="newFooter ">
 									<div class="rounded-social-buttons">
 										<a class="social-button facebook" href="https://www.facebook.com/" target="_blank"><svg class="svg-inline--fa fa-facebook-f fa-w-10" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="facebook-f" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" data-fa-i2svg=""><path fill="currentColor" d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"></path></svg><!-- <i class="fab fa-facebook-f"></i> Font Awesome fontawesome.com --></a>
@@ -691,7 +691,7 @@ const set2french = () => {
 
 					<div class="col-md-2"></div>
 					<div style="text-align: center;" class="col-md-8">
-						<div style="font-size: xx-large;color: #bd9973;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Aerviva — Carrières professionnelles en ingénierie et en aviation</font></font></div>
+						<div style="font-size: xx-large;color: #bd9973;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AeroTec — Carrières professionnelles en ingénierie et en aviation</font></font></div>
 						<div style="  font-size: larger; padding:5%; color:white"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Notre équipe recrute pour diverses organisations aéronautiques responsables des opérations techniques, de la maintenance en ligne et en base, de la navigabilité, de la gestion de l'ingénierie, de l'ingénierie sous licence, de la planification de la maintenance, de l'assurance qualité et de la production.</font></font></div>
 
 					</div>
@@ -745,7 +745,7 @@ const set2french = () => {
 
 					<div class="col-md-2"></div>
 					<div style="text-align: center;" class="col-md-8">
-						<div style="font-size: xx-large;color: #bd9973;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Aerviva — le choix des professionnels de l'aviation
+						<div style="font-size: xx-large;color: #bd9973;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AeroTec — le choix des professionnels de l'aviation
 						</font></font></div>
 						<div style="  font-size: larger; padding:5%; color:white"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Avec plus de 10 ans d'expérience dans la fourniture de solutions de dotation et de recrutement de personnel aéronautique, nous avons le courage et la compréhension nécessaires pour faire les choses différemment de la concurrence.</font></font></div>
 						<div style="  font-size: larger; padding:5%; color:white"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Notre approche centrée sur l’humain en matière de ressources en personnel pour l’aviation et l’aérospatiale est que </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">le personnel est des personnes</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> . C’est pourquoi nous comprenons qu’il existe des étapes clés pour garantir que les candidats nous font confiance et se sentent en contrôle du processus, comme s’ils postulaient directement à un poste. Nous sommes là pour vous soutenir et rendre le processus aussi fluide que possible.</font></font></div>
@@ -790,7 +790,7 @@ const set2french = () => {
 							<div style="width: 100%;" class="accordion">
 								<div class="accordion-item">
 									<div class="accordion-header" onclick="toggleAccordion(1)">
-										<h3 style="color:#bd9973 ;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Pour quels types de postes professionnels techniques et aéronautiques Aerviva recrute-t-elle&nbsp;?</font></font></h3>
+										<h3 style="color:#bd9973 ;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Pour quels types de postes professionnels techniques et aéronautiques AeroTec recrute-t-elle&nbsp;?</font></font></h3>
 									</div>
 									<div class="accordion-content" id="accordionContent1">
 										<div style="padding:5%">
@@ -846,7 +846,7 @@ const set2french = () => {
 
 								<div class="accordion-item">
 									<div class="accordion-header" onclick="toggleAccordion(4)">
-										<h3 style="color:#bd9973 ;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Que dois-je faire si j'ai postulé pour un emploi sur le site d'Aerviva mais que je n'ai pas encore reçu de réponse ?</font></font></h3>
+										<h3 style="color:#bd9973 ;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Que dois-je faire si j'ai postulé pour un emploi sur le site d'AeroTec mais que je n'ai pas encore reçu de réponse ?</font></font></h3>
 									</div>
 									<div class="accordion-content" id="accordionContent4">
 										<div style="padding:5%">
@@ -912,7 +912,7 @@ const set2french = () => {
 											<h3 style="color: #bd9973;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Technicien B2
 											</font></font></h3>
 											<span class="fh5co-price"><sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Organisation MRO</font></font></sup></span>
-											<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">« Aerviva m'a aidé à obtenir mon premier emploi d'ingénieur navigant chez un fournisseur mondial de MRO et j'ai continué à grandir ici. Leur relation avec l'équipe a permis de faire avancer les choses rapidement et je n'ai jamais regardé en arrière depuis !
+											<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">« AeroTec m'a aidé à obtenir mon premier emploi d'ingénieur navigant chez un fournisseur mondial de MRO et j'ai continué à grandir ici. Leur relation avec l'équipe a permis de faire avancer les choses rapidement et je n'ai jamais regardé en arrière depuis !
 											</font></font></p>
 										</div>
 									</div>
@@ -921,7 +921,7 @@ const set2french = () => {
 
 											<h3 style="color: #bd9973;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Technicien B1</font></font></h3>
 											<span class="fh5co-price"><sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Compagnie aérienne</font></font></sup></span>
-											<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">« Mon représentant chez Aerviva avait un contact brillant au sein d'une grande compagnie aérienne ACMI où ils avaient besoin de pourvoir un certain nombre de postes de maintenance aéronautique. Je travaille désormais quotidiennement avec des avions Airbus et je ne pourrais pas être plus heureux dans mon rôle.</font></font></p>
+											<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">« Mon représentant chez AeroTec avait un contact brillant au sein d'une grande compagnie aérienne ACMI où ils avaient besoin de pourvoir un certain nombre de postes de maintenance aéronautique. Je travaille désormais quotidiennement avec des avions Airbus et je ne pourrais pas être plus heureux dans mon rôle.</font></font></p>
 										</div>
 									</div>
 									<div class="clearfix visible-sm-block visible-xs-block"></div>
@@ -932,7 +932,7 @@ const set2french = () => {
 											</font></font></h3>
 											<span class="fh5co-price"><sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Organisation MRO
 												</font></font></sup></span>
-											<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">« Depuis que j'ai accepté mes nouvelles fonctions, j'ai participé à des projets d'ingénierie de maintenance d'avions assez passionnants. Aerviva m'a aidé à occuper un rôle qui m'a apporté tant de variété et d'opportunités et cela a vraiment été une révélation !</font></font></p>
+											<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">« Depuis que j'ai accepté mes nouvelles fonctions, j'ai participé à des projets d'ingénierie de maintenance d'avions assez passionnants. AeroTec m'a aidé à occuper un rôle qui m'a apporté tant de variété et d'opportunités et cela a vraiment été une révélation !</font></font></p>
 										</div>
 									</div>
 
@@ -962,7 +962,7 @@ const set2french = () => {
 									<li><a href="technical training.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Prestations de service</font></font></a></li>
 								</ul>
 							</div>
-		
+
 							<div class="col-md-2 col-md-push-1 fh5co-widget">
 								<h4><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Catégories</font></font></h4>
 								<div style="display: flex;">
@@ -972,28 +972,28 @@ const set2french = () => {
 										<li><a href="/BASE MAINTENANCE SUPPORT & OVERSIGHT SERVICE.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Représentant de l'entretien de la base</font></font></a></li>
 										<li><a href="/engineering service.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Support technique</font></font></a></li>
 									</ul>
-		
+
 								</div>
 							</div>
 							<div class="col-md-2 col-md-push-1 fh5co-widget">
 								<h4><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Catégories</font></font></h4>
 								<div style="display: flex;">
-		
+
 									<ul class="fh5co-footer-links">
 										<li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EASA Part 66 Examination</font></font></a></li>
 										<li><a href="type rating courses.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">TYPE RATING COURSES</font></font></a></li>
-		
+
 									</ul>
 								</div>
 							</div>
-		
+
 							<div class="col-md-4 col-md-push-1 fh5co-widget">
 								<h4><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Coordonnées</font></font></h4>
 								<ul class="fh5co-footer-links">
 									<li><a href="tel://212698977462"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+212698977462</font></font></a></li>
 									<li><a href="mailto:contact@aerotecsupport.com"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">contact@aerotecsupport.com</font></font></a></li>
 								</ul>
-		
+
 								<div class="newFooter ">
 									<div class="rounded-social-buttons">
 										<a class="social-button facebook" href="https://www.facebook.com/profile.php?id=61557399107688" target="_blank"><svg class="svg-inline--fa fa-facebook-f fa-w-10" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="facebook-f" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" data-fa-i2svg=""><path fill="currentColor" d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"></path></svg><!-- <i class="fab fa-facebook-f"></i> Font Awesome fontawesome.com --></a>

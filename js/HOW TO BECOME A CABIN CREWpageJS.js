@@ -124,7 +124,7 @@ const set2french = () => {
                             <div class="display-t">
                                 <div class="display-tc animate-box fadeIn animated-fast" data-animate-effect="fadeIn">
                                     <h1 style="color: #bd9973;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">QUELS SONT LES AVANTAGES d’être agent de bord ?</font></font></h1>
-                                    <h2 style="color: white;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Si vous envisagez de postuler pour devenir agent de bord, la formation BAA est le bon point de départ car nous savons ce qu'elle implique et quels avantages vous en tirerez éventuellement.</font></font></h2>
+                                    <h2 style="color: white;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Si vous envisagez de postuler pour devenir agent de bord, la formation AeroTec est le bon point de départ car nous savons ce qu'elle implique et quels avantages vous en tirerez éventuellement.</font></font></h2>
                                 </div>
                                 <div id="fh5co-featured-menu">
                                     <div class="newCardsSolution">
@@ -565,7 +565,7 @@ const  set2english= () => {
                                     <h1 style="color: #bd9973;">WHAT ARE THE PERKS
                                         of being a Flight Attendant?</h1>
                                     <h2 style="color: white;">If you are considering applying to become a Flight
-                                        Attendant, then BAA Training is the right place to start since we know what
+                                        Attendant, then AeroTec Training is the right place to start since we know what
                                         it entails and what benefits you will eventually get.</h2>
                                 </div>
                                 <div id="fh5co-featured-menu">

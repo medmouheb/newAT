@@ -276,12 +276,12 @@ With help from https://24ways.org/2010/intro-to-css-3d-transforms/-->
 								<div class="content">
 									<p>
 										A thorough pre-purchase inspection is the best investment, as this can reduce
-										potential exposure in the future. At AirFleet Managers, we go above and beyond
+										potential exposure in the future. At AeroTec Managers, we go above and beyond
 										industry standards, to ensure that our clients have all the information needed
 										to make educated decisions. This is done by conducting a thorough audit of asset
 										in the form of In-Depth Records Review and Detailed Physical Inspection of
 										aircraft, as well as cross verification of both and providing un-biased
-										technical advisory. AirFleet Managers has handled hundreds of pre-purchase
+										technical advisory. AeroTec Managers has handled hundreds of pre-purchase
 										inspections on a wide variety of aircraft and to put it simply, we know WHAT TO
 										LOOK FOR.
 
@@ -303,7 +303,7 @@ With help from https://24ways.org/2010/intro-to-css-3d-transforms/-->
 								<div class="content">
 									<p>
 										With significant experience covering all aspects of aircraft engine management
-										across wide range of engine types, AirFleet Managers offers a wide variety of
+										across wide range of engine types, AeroTec Managers offers a wide variety of
 										services to its global clients. The services include but are not limited to
 										Lease Return Condition Review, Maintenance Event Analysis, Oversight and
 										Management of Engine Shop Visit, LLP Back-to-Birth trace report, Borescope
@@ -380,7 +380,7 @@ With help from https://24ways.org/2010/intro-to-css-3d-transforms/-->
 								<div class="content">
 									<p>
 										Sourcing, Trading, Re-marketing - Our Extensive global network enables us to
-										cater for our client’s requirements. AirFleet Managers’ specialised team for
+										cater for our client’s requirements. AeroTec Managers’ specialised team for
 										remarketing of aviation assets, deliver a discreet and targeted service. Our
 										market knowledge and vast database allows us to align the expectations of both
 										the parties to ensure a positive outcome within minimum time.
@@ -424,7 +424,7 @@ With help from https://24ways.org/2010/intro-to-css-3d-transforms/-->
 							<div class="back">
 								<div class="content">
 									<p>
-										AirFleet Managers has strategic partnerships with some of the leading ferry
+										AeroTec Managers has strategic partnerships with some of the leading ferry
 										flight agencies. We can provide cost effective and smooth ferry flights
 										solutions around the globe.
 
@@ -447,7 +447,7 @@ With help from https://24ways.org/2010/intro-to-css-3d-transforms/-->
 								<div class="content">
 									<p>
 										Sourcing, Trading, Re-marketing - Our Extensive global network enables us to
-										cater for our client’s requirements. AirFleet Managers’ specialised team for
+										cater for our client’s requirements. AeroTec Managers’ specialised team for
 										remarketing of aviation assets, deliver a discreet and targeted service. Our
 										market knowledge and vast database allows us to align the expectations of both
 										the parties to ensure a positive outcome within minimum time.
@@ -491,7 +491,7 @@ With help from https://24ways.org/2010/intro-to-css-3d-transforms/-->
 							<div class="back">
 								<div class="content">
 									<p>
-										AirFleet Managers has strategic partnerships with some of the leading ferry
+										AeroTec Managers has strategic partnerships with some of the leading ferry
 										flight agencies. We can provide cost effective and smooth ferry flights
 										solutions around the globe.
 
@@ -833,7 +833,7 @@ With help from https://24ways.org/2010/intro-to-css-3d-transforms/-->
 							<div class="back">
 								<div class="content">
 									<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-										Une inspection minutieuse avant l’achat constitue le meilleur investissement, car elle peut réduire l’exposition potentielle à l’avenir. Chez AirFleet Managers, nous allons au-delà des normes de l'industrie pour garantir que nos clients disposent de toutes les informations nécessaires pour prendre des décisions éclairées. Cela se fait en effectuant un audit approfondi des actifs sous la forme d'un examen approfondi des dossiers et d'une inspection physique détaillée de l'avion, ainsi que d'une vérification croisée des deux et en fournissant des conseils techniques impartiaux. AirFleet Managers a effectué des centaines d'inspections pré-achat sur une grande variété d'avions et, pour faire simple, nous savons CE QU'IL FAUT RECHERCHER.
+										Une inspection minutieuse avant l’achat constitue le meilleur investissement, car elle peut réduire l’exposition potentielle à l’avenir. Chez AeroTec Managers, nous allons au-delà des normes de l'industrie pour garantir que nos clients disposent de toutes les informations nécessaires pour prendre des décisions éclairées. Cela se fait en effectuant un audit approfondi des actifs sous la forme d'un examen approfondi des dossiers et d'une inspection physique détaillée de l'avion, ainsi que d'une vérification croisée des deux et en fournissant des conseils techniques impartiaux. AeroTec Managers a effectué des centaines d'inspections pré-achat sur une grande variété d'avions et, pour faire simple, nous savons CE QU'IL FAUT RECHERCHER.
 
 
 									</font></font></p>
@@ -851,7 +851,7 @@ With help from https://24ways.org/2010/intro-to-css-3d-transforms/-->
 							<div class="back">
 								<div class="content">
 									<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-										Fort d'une expérience significative couvrant tous les aspects de la gestion des moteurs d'avion sur une large gamme de types de moteurs, AirFleet Managers propose une grande variété de services à ses clients mondiaux. Les services comprennent, sans toutefois s'y limiter, l'examen des conditions de retour du bail, l'analyse des événements de maintenance, la surveillance et la gestion des visites d'atelier de moteurs, le rapport de suivi de retour à la naissance LLP, l'examen et l'interprétation des rapports d'endoscope, la surveillance et l'interprétation des graphiques de tendance du moteur, l'inspection sur table. , Audit d'inventaire LRU/QEC, réclamations de réserve de maintenance et négociation.
+										Fort d'une expérience significative couvrant tous les aspects de la gestion des moteurs d'avion sur une large gamme de types de moteurs, AeroTec Managers propose une grande variété de services à ses clients mondiaux. Les services comprennent, sans toutefois s'y limiter, l'examen des conditions de retour du bail, l'analyse des événements de maintenance, la surveillance et la gestion des visites d'atelier de moteurs, le rapport de suivi de retour à la naissance LLP, l'examen et l'interprétation des rapports d'endoscope, la surveillance et l'interprétation des graphiques de tendance du moteur, l'inspection sur table. , Audit d'inventaire LRU/QEC, réclamations de réserve de maintenance et négociation.
 
 
 									</font></font></p>
@@ -903,7 +903,7 @@ With help from https://24ways.org/2010/intro-to-css-3d-transforms/-->
 							<div class="back">
 								<div class="content">
 									<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-										Sourcing, Trading, Re-marketing - Notre vaste réseau mondial nous permet de répondre aux exigences de nos clients. L'équipe spécialisée d'AirFleet Managers pour le remarketing des actifs aéronautiques, délivre un service discret et ciblé. Notre connaissance du marché et notre vaste base de données nous permettent d'aligner les attentes des deux parties pour garantir un résultat positif dans un délai minimum.
+										Sourcing, Trading, Re-marketing - Notre vaste réseau mondial nous permet de répondre aux exigences de nos clients. L'équipe spécialisée d'AeroTec Managers pour le remarketing des actifs aéronautiques, délivre un service discret et ciblé. Notre connaissance du marché et notre vaste base de données nous permettent d'aligner les attentes des deux parties pour garantir un résultat positif dans un délai minimum.
 									</font></font></p>
 								</div>
 							</div>
@@ -935,7 +935,7 @@ With help from https://24ways.org/2010/intro-to-css-3d-transforms/-->
 							<div class="back">
 								<div class="content">
 									<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-										AirFleet Managers a des partenariats stratégiques avec certaines des principales agences de vols en ferry. Nous pouvons fournir des solutions de vols en ferry rentables et fluides dans le monde entier.
+										AeroTec Managers a des partenariats stratégiques avec certaines des principales agences de vols en ferry. Nous pouvons fournir des solutions de vols en ferry rentables et fluides dans le monde entier.
 
 
 									</font></font></p>
@@ -954,7 +954,7 @@ With help from https://24ways.org/2010/intro-to-css-3d-transforms/-->
 							<div class="back">
 								<div class="content">
 									<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-										Sourcing, Trading, Re-marketing - Notre vaste réseau mondial nous permet de répondre aux exigences de nos clients. L'équipe spécialisée d'AirFleet Managers pour le remarketing des actifs aéronautiques, délivre un service discret et ciblé. Notre connaissance du marché et notre vaste base de données nous permettent d'aligner les attentes des deux parties pour garantir un résultat positif dans un délai minimum.
+										Sourcing, Trading, Re-marketing - Notre vaste réseau mondial nous permet de répondre aux exigences de nos clients. L'équipe spécialisée d'AeroTec Managers pour le remarketing des actifs aéronautiques, délivre un service discret et ciblé. Notre connaissance du marché et notre vaste base de données nous permettent d'aligner les attentes des deux parties pour garantir un résultat positif dans un délai minimum.
 									</font></font></p>
 								</div>
 							</div>
@@ -986,7 +986,7 @@ With help from https://24ways.org/2010/intro-to-css-3d-transforms/-->
 							<div class="back">
 								<div class="content">
 									<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-										AirFleet Managers a des partenariats stratégiques avec certaines des principales agences de vols en ferry. Nous pouvons fournir des solutions de vols en ferry rentables et fluides dans le monde entier.
+										AeroTec Managers a des partenariats stratégiques avec certaines des principales agences de vols en ferry. Nous pouvons fournir des solutions de vols en ferry rentables et fluides dans le monde entier.
 
 
 									</font></font></p>
