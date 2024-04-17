@@ -334,28 +334,28 @@ const set2english = () => {
 			<div class="carousel-container">
 				<div class="carousel-wrapper" id="carouselWrapper" style="transform: translateX(-100%);">
 
-				<img src="images/sponsor9.png" class="sponsorImg carousel-item ">
-				<img src="images/sponsor10.png" class="sponsorImg carousel-item ">
-				<img src="images/sponsor8.png" class="sponsorImg carousel-item ">
+				<img src="images/sponsor9.jpg" class="sponsorImg carousel-item ">
+				<img src="images/sponsor10.jpg" class="sponsorImg carousel-item ">
+				<img src="images/sponsor8.jpg" class="sponsorImg carousel-item ">
 					<img src="images/sponsor1.png" class="sponsorImg carousel-item ">
 					<img src="images/sponsor2.jpg" class="sponsorImg carousel-item ">
 					<img src="images/sponsor3.jpeg" class="sponsorImg carousel-item ">
 					<img src="images/sponsor4.png" class="sponsorImg carousel-item ">
-					
+
 					<img src="images/sponsor5.jpg" class="sponsorImg carousel-item ">
 					<img src="images/sponsor6.png" class="sponsorImg carousel-item ">
 					<img src="images/sponsor7.png" class="sponsorImg carousel-item ">
 
 				</div>
 				<div class="carousel-wrapper" id="carouselWrapper1" style="transform: translateX(-100%);">
-				<img src="images/sponsor9.png" class="sponsorImg carousel-item ">
-				<img src="images/sponsor10.png" class="sponsorImg carousel-item ">
-				<img src="images/sponsor8.png" class="sponsorImg carousel-item ">
+				<img src="images/sponsor9.jpg" class="sponsorImg carousel-item ">
+				<img src="images/sponsor10.jpg" class="sponsorImg carousel-item ">
+				<img src="images/sponsor8.jpg" class="sponsorImg carousel-item ">
 					<img src="images/sponsor1.png" class="sponsorImg carousel-item ">
 					<img src="images/sponsor2.jpg" class="sponsorImg carousel-item ">
 					<img src="images/sponsor3.jpeg" class="sponsorImg carousel-item ">
 					<img src="images/sponsor4.png" class="sponsorImg carousel-item ">
-					
+
 					<img src="images/sponsor5.jpg" class="sponsorImg carousel-item ">
 					<img src="images/sponsor6.png" class="sponsorImg carousel-item ">
 					<img src="images/sponsor7.png" class="sponsorImg carousel-item ">
@@ -497,8 +497,8 @@ const set2french = () => {
 							<path fill-rule="evenodd" d="M2 12.5a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5m0-3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5m0-3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5m0-3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5"/>
 						  </svg></span></a>
 						<ul class="dropdown">
-							<li><a href=" 
-							
+							<li><a href="
+
 							 66 examination.html">EXAMEN DES MODULES DE BASE DE L'EASA </a>
 							</li>
 							<li><a href="type rating courses.html">COURS DE QUALIFICATION DE TYPE</a></li>
@@ -824,7 +824,7 @@ const set2french = () => {
 						<ul class="fh5co-footer-links">
 							<li><a href="tel://212698977462"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+212698977462</font></font></a></li>
 							<li><a href="mailto:contact@aerotecsupport.com"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">contact@aerotecsupport.com</font></font></a></li>
-						
+
 							</ul>
 
 						<div class="newFooter ">
