@@ -116,10 +116,8 @@ const set2english = () => {
 						<div class="col-md-12 text-center">
 							<div class="display-t js-fullheight">
 								<div class="display-tc js-fullheight animate-box" data-animate-effect="fadeIn">
-									<h1>CABIN CREW INITIAL TRAINING </h1>
-									<h2>The Cabin Crew Initial training is introductory aviation training. Completing
-										this course is mandatory for being issued the EU qualification document Cabin
-										Crew Attestation.</h2>
+									<h1>CABIN CREW  TRAINING </h1>
+
 								</div>
 							</div>
 						</div>
@@ -130,24 +128,235 @@ const set2english = () => {
 
 
 
-			<div class="fh5co-section newSection">
-			<a href="HOW TO BECOME A CABIN CREW.html">
-				<span></span>
-				<span></span>
-				<span></span>
-				<span></span>
-                HOW TO BECOME A CABIN CREW ?
-			</a>
-			<a href="CABIN CREW INITIAL TRAINING2.html">
-				<span></span>
-				<span></span>
-				<span></span>
-				<span></span>
-				CABIN CREW INITIAL TRAINING
-			</a>
+			<div id="fh5co-featured-menu ">
+				<div style="margin-top: 3%;" class="container">
+					<div class="row">
+						<div style="padding: 2%;" class="col-md-6">
+							<h1 style="font-size: 40px;    color: #bd9973 !important;
+							">CABIN CREW INITIAL
+								TRAINING</h1>
+							<h2 style="color: white;">
+								program structure TOTAL DURATION:
+							</h2>
+						</div>
+						<div class="four col-md-3">
+							<div class="counter-box ">
+								<i class="fa-regular fa-hourglass-start"></i>
+								<span class="counter">76</span>
+								<p>hours</p>
+							</div>
+						</div>
+						<div class="four col-md-3">
+							<div class="counter-box ">
+								<i class="fa-regular fa-calendar"></i>
 
-            </div>
-            </div>
+								<span class="counter">15</span>
+								<p>days</p>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<main>
+					<div style="display: flex;justify-content: space-evenly;align-items: center;">
+						<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+							id="Group_886" data-name="Group 886" width="100" height="100" viewBox="0 0 100 100">
+							<defs>
+								<clipPath id="clip-path">
+									<rect id="Rectangle_443" data-name="Rectangle 443" width="100" height="100"
+										fill="none" />
+								</clipPath>
+							</defs>
+							<g id="Group_885" data-name="Group 885" clip-path="url(#clip-path)">
+								<path id="Path_806" data-name="Path 806"
+									d="M50.472,100l-.089-10c.3,0,.589-.009.881-.018l.324,9.995c-.372.012-.744.019-1.116.023"
+									fill="white" />
+								<path id="Path_807" data-name="Path 807"
+									d="M16.069,86.724q-.4-.372-.8-.754l6.939-7.2q.324.312.655.619Z" fill="white" />
+								<path id="Path_808" data-name="Path 808"
+									d="M85.412,85.3l-7.086-7.057q.317-.318.626-.641l7.231,6.908c-.255.267-.511.529-.771.79"
+									fill="white" />
+								<path id="Path_809" data-name="Path 809"
+									d="M.055,52.375c-.017-.367-.03-.734-.04-1.1l10-.263c.008.3.018.6.032.9Z"
+									fill="white" />
+								<path id="Path_810" data-name="Path 810"
+									d="M100,50.338l-10-.1V50c0-.21,0-.421,0-.63l10-.165q.008.4.007.795Z" fill="white" />
+								<path id="Path_811" data-name="Path 811"
+									d="M20.191,23.325l-7.455-6.664q.372-.417.755-.826l7.295,6.841q-.3.319-.595.649"
+									fill="white" />
+								<path id="Path_812" data-name="Path 812"
+									d="M78.682,22.118c-.205-.211-.414-.421-.624-.628l7.019-7.122c.264.261.527.524.784.79Z"
+									fill="white" />
+								<path id="Path_813" data-name="Path 813"
+									d="M50.89,10.01Q50.446,10,50,10V0q.555,0,1.11.012Z" fill="white" />
+								<path id="Path_814" data-name="Path 814"
+									d="M62.321,55.577V62.7h4.05l-.8,2.3h-36.8L28,62.7h4.05V42.978h8.5M32.05,62.7div1v.935H51.3V62.7H62.321"
+									fill="white" stroke="#002533" stroke-linecap="round" stroke-linejoin="round"
+									stroke-width="1" />
+								<path id="Path_815" data-name="Path 815" d="M60.421,55.576v5.2H33.949v-15.9h6.574"
+									fill="white" stroke="#002533" stroke-linecap="round" stroke-linejoin="round"
+									stroke-width="1" />
+								<path id="Path_816" data-name="Path 816"
+									d="M70.57,37.953h1.1V53.077H59.8l-.275.56a13.8,13.8,0,0,1-2.5.225,8.893,8.893,0,0,1-2.175-.225l-.225-.56H42.7V37.953h1.075V36.328a59.64,59.64,0,0,0,7.349-1.189q4.648-.6,6.049,1.4,1.45-1.985,6.077-1.4c.685.08,1.965.3,3.85.65a26.644,26.644,0,0,0,3.5.5v15a31.01,31.01,0,0,1-3.5-.475c-1.885-.37-3.165-.6-3.85-.7q-4.625-.559-6.074,1.44-1.4-2-6.049-1.415a59.635,59.635,0,0,1-7.349,1.175V37.953m13.4-1.4v15"
+									fill="white" stroke="#002533" stroke-linecap="round" stroke-linejoin="round"
+									stroke-width="1" />
+							</g>
+						</svg>
+						<div style="    font-size: xx-large;	color: #bd9973;					">TRAINING MODULES</div>
+						<div style="color: white;"> 15 DAYS</div>
+
+					</div>
+					<p>The theory consists of mandatory classroom training, including the following modules:
+
+					</p>
+					<ol class="gradient-list">
+						<li style="color: #000000;">General theoretical knowledge of aviation and aviation regulations,
+							duties and responsibilities of cabin crew</li>
+						<li style="color: #000000;">Communication</li>
+						<li style="color: #000000;">Passenger handling and cabin surveillance</li>
+						<li style="color: #000000;">Survival</li>
+						<li style="color: #000000;">Fire and Smoke Aero-medical aspects and first aid</li>
+						<li style="color: #000000;">Introductory course on human factors (HF) and crew resource
+							management (CRM)</li>
+						<li style="color: #000000;">Dangerous goods</li>
+						<li style="color: #000000;">General security aspects in aviation</li>
+
+					</ol>
+					<p>
+						The practice involves applying theoretical knowledge in the Firefighting simulator, using First
+						Aid techniques and Ditching practice in a swimming pool. All practical training is contained
+						within each theory module.
+					</p>
+				</main>
+
+				<div class="req">
+					<h1>ENTRY requirements
+					</h1>
+					<ul>
+						<li style="--accent-color:#60c5a6">
+							<div class="icon"><i class="fa-regular fa-calendar"></i></div>
+							<div class="title">Age</div>
+							<div class="descr">18 years old and over
+							</div>
+						</li>
+						<li style="--accent-color:#f20071">
+							<div class="icon"><i class="fa-solid fa-school"></i></div>
+							<div class="title">Education</div>
+							<div class="descr">High-school diploma
+							</div>
+						</li>
+						<li style="--accent-color:#FCBA35">
+							<div class="icon"><i class="fa-solid fa-person-swimming"></i></div>
+							<div class="title">Swimming skills
+							</div>
+							<div class="descr">Ability to swim
+							</div>
+						</li>
+						<li style="--accent-color:#DAE438">
+							<div class="icon"><i class="fa-solid fa-kit-medical"></i></div>
+							<div class="title">Physical status
+							</div>
+							<div class="descr">Medically fit to get a Cabin Crew Medical Report</div>
+						</li>
+						<li style="--accent-color:#994D7F">
+							<div class="icon"><i class="fa-solid fa-language"></i></div>
+							<div class="title">English language proficiency</div>
+							<div class="descr">English language level B1 by CEFR standard
+							</div>
+						</li>
+					</ul>
+
+
+				</div>
+
+
+				<div style="padding: 5% 0% 5% 0%;">
+					<div class="slideshow-container">
+						<div class="mySlides2">
+
+							<span>
+								<span class="dot activeDot"></span>
+								<span class="dot"></span>
+								<span class="dot "></span>
+								<span class="dot"></span>
+								<span class="dot"></span>
+								<span class="dot"></span>
+							</span>
+							<img src="images/senior-training-cc-2.webp" style="width:100%;height:61vh;">
+						</div>
+
+						<div class="mySlides2">
+
+							<span>
+								<span class="dot"></span>
+								<span class="dot activeDot"></span>
+								<span class="dot "></span>
+								<span class="dot"></span>
+								<span class="dot"></span>
+								<span class="dot"></span>
+							</span>
+							<img src="images/senior-training-cc-1.webp" style="width:100%;height:61vh;">
+						</div>
+
+						<div class="mySlides2">
+							<span>
+								<span class="dot"></span>
+								<span class="dot"></span>
+								<span class="dot activeDot "></span>
+								<span class="dot"></span>
+								<span class="dot"></span>
+								<span class="dot"></span>
+							</span>
+							<img src="images/senior-training-cc-8.webp" style="width:100%;height:61vh;">
+						</div>
+
+						<div class="mySlides2">
+							<span>
+								<span class="dot"></span>
+								<span class="dot"></span>
+								<span class="dot "></span>
+								<span class="dot activeDot"></span>
+								<span class="dot"></span>
+								<span class="dot"></span>
+							</span>
+							<img src="images/senior-training-cc-7.webp" style="width:100%;height:61vh;">
+						</div>
+
+
+						<div class="mySlides2">
+							<span>
+								<span class="dot"></span>
+								<span class="dot"></span>
+								<span class="dot "></span>
+								<span class="dot"></span>
+								<span class="dot activeDot"></span>
+								<span class="dot"></span>
+							</span>
+							<img src="images/aaaa.webp"
+								style="width:100%;height:61vh;">
+						</div>
+
+
+						<div class="mySlides2">
+							<span>
+								<span class="dot"></span>
+								<span class="dot"></span>
+								<span class="dot "></span>
+								<span class="dot"></span>
+								<span class="dot"></span>
+								<span class="dot activeDot"></span>
+							</span>
+
+							<img src="images/senior-training-cc-5.webp" style="width:100%;height:61vh;">
+						</div>
+
+						<a class="prev" onclick="plusSlides(-1, 1)">&#10094;</a>
+						<a class="next" onclick="plusSlides(1, 1)">&#10095;</a>
+					</div>
+				</div>
+
+			</div>
+
 
 		</div>
 
@@ -346,8 +555,7 @@ const set2french = () => {
 						<div class="col-md-12 text-center">
 							<div class="display-t js-fullheight" style="height: 713px;">
 								<div class="display-tc js-fullheight animate-box fadeIn animated-fast" data-animate-effect="fadeIn" style="height: 713px;">
-									<h1><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FORMATION INITIALE DU PERSONNEL DE CABINE</font></font></h1>
-									<h2><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">La formation initiale du personnel navigant commercial est une formation d'initiation à l'aviation. La réussite de ce cours est obligatoire pour obtenir le document de qualification UE Attestation d'équipage de cabine.</font></font></h2>
+									<h1><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FORMATION  DU PERSONNEL DE CABINE</font></font></h1>
 								</div>
 							</div>
 						</div>
@@ -358,21 +566,313 @@ const set2french = () => {
 
 
 
-			<div class="fh5co-section newSection">
-			<a href="HOW TO BECOME A CABIN CREW.html">
-				<span></span>
-				<span></span>
-				<span></span>
-				<span></span>
-                COMMENT DEVENIR UN ÉQUIPAGE DE CABINE ?
-			</a>
-			<a href="CABIN CREW INITIAL TRAINING.html">
-				<span></span>
-				<span></span>
-				<span></span>
-				<span></span>
-				FORMATION INITIALE DU PERSONNEL DE CABINE
-			</a>
+			<div id="fh5co-featured-menu ">
+				<div style="margin-top: 3%;" class="container">
+					<div class="row">
+						<div style="padding: 2%;" class="col-md-6">
+							<h1 style="font-size: 40px;    color: #bd9973 !important;
+							"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FORMATION INITIALE DU PERSONNEL DE CABINE</font></font></h1>
+							<h2 style="color: white;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+								structure du programme DURÉE TOTALE&nbsp;:
+							</font></font></h2>
+						</div>
+						<div class="four col-md-3">
+							<div class="counter-box ">
+								<i class="fa-regular fa-hourglass-start"></i>
+								<span class="counter"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">76</font></font></span>
+								<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">heures</font></font></p>
+							</div>
+						</div>
+						<div class="four col-md-3">
+							<div class="counter-box ">
+								<i class="fa-regular fa-calendar"></i>
+
+								<span class="counter"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">15</font></font></span>
+								<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">jours</font></font></p>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<main>
+					<div style="display: flex;justify-content: space-evenly;align-items: center;">
+						<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Group_886" data-name="Group 886" width="100" height="100" viewBox="0 0 100 100">
+							<defs>
+								<clipPath id="clip-path">
+									<rect id="Rectangle_443" data-name="Rectangle 443" width="100" height="100" fill="none"></rect>
+								</clipPath>
+							</defs>
+							<g id="Group_885" data-name="Group 885" clip-path="url(#clip-path)">
+								<path id="Path_806" data-name="Path 806" d="M50.472,100l-.089-10c.3,0,.589-.009.881-.018l.324,9.995c-.372.012-.744.019-1.116.023" fill="white"></path>
+								<path id="Path_807" data-name="Path 807" d="M16.069,86.724q-.4-.372-.8-.754l6.939-7.2q.324.312.655.619Z" fill="white"></path>
+								<path id="Path_808" data-name="Path 808" d="M85.412,85.3l-7.086-7.057q.317-.318.626-.641l7.231,6.908c-.255.267-.511.529-.771.79" fill="white"></path>
+								<path id="Path_809" data-name="Path 809" d="M.055,52.375c-.017-.367-.03-.734-.04-1.1l10-.263c.008.3.018.6.032.9Z" fill="white"></path>
+								<path id="Path_810" data-name="Path 810" d="M100,50.338l-10-.1V50c0-.21,0-.421,0-.63l10-.165q.008.4.007.795Z" fill="white"></path>
+								<path id="Path_811" data-name="Path 811" d="M20.191,23.325l-7.455-6.664q.372-.417.755-.826l7.295,6.841q-.3.319-.595.649" fill="white"></path>
+								<path id="Path_812" data-name="Path 812" d="M78.682,22.118c-.205-.211-.414-.421-.624-.628l7.019-7.122c.264.261.527.524.784.79Z" fill="white"></path>
+								<path id="Path_813" data-name="Path 813" d="M50.89,10.01Q50.446,10,50,10V0q.555,0,1.11.012Z" fill="white"></path>
+								<path id="Path_814" data-name="Path 814" d="M62.321,55.577V62.7h4.05l-.8,2.3h-36.8L28,62.7h4.05V42.978h8.5M32.05,62.7div1v.935H51.3V62.7H62.321" fill="white" stroke="#002533" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+								<path id="Path_815" data-name="Path 815" d="M60.421,55.576v5.2H33.949v-15.9h6.574" fill="white" stroke="#002533" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+								<path id="Path_816" data-name="Path 816" d="M70.57,37.953h1.1V53.077H59.8l-.275.56a13.8,13.8,0,0,1-2.5.225,8.893,8.893,0,0,1-2.175-.225l-.225-.56H42.7V37.953h1.075V36.328a59.64,59.64,0,0,0,7.349-1.189q4.648-.6,6.049,1.4,1.45-1.985,6.077-1.4c.685.08,1.965.3,3.85.65a26.644,26.644,0,0,0,3.5.5v15a31.01,31.01,0,0,1-3.5-.475c-1.885-.37-3.165-.6-3.85-.7q-4.625-.559-6.074,1.44-1.4-2-6.049-1.415a59.635,59.635,0,0,1-7.349,1.175V37.953m13.4-1.4v15" fill="white" stroke="#002533" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+							</g>
+						</svg>
+						<div style="    font-size: xx-large;	color: #bd9973;					"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MODULES DE FORMATION</font></font></div>
+						<div style="color: white;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">15 JOURS</font></font></div>
+
+					</div>
+					<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">La théorie consiste en une formation obligatoire en classe, comprenant les modules suivants&nbsp;:
+
+					</font></font></p>
+					<ol class="gradient-list">
+						<li style="color: #000000;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Connaissance théorique générale de l'aviation et de la réglementation aéronautique, des devoirs et responsabilités du personnel de cabine</font></font></li>
+						<li style="color: #000000;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Communication</font></font></li>
+						<li style="color: #000000;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Gestion des passagers et surveillance des cabines</font></font></li>
+						<li style="color: #000000;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Survie</font></font></li>
+						<li style="color: #000000;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Incendie et fumée Aspects aéromédicaux et premiers secours</font></font></li>
+						<li style="color: #000000;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cours d'introduction aux facteurs humains (HF) et à la gestion des ressources de l'équipage (CRM)</font></font></li>
+						<li style="color: #000000;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Marchandises dangereuses</font></font></li>
+						<li style="color: #000000;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Aspects généraux de la sécurité aérienne</font></font></li>
+
+					</ol>
+					<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+						La pratique consiste à appliquer les connaissances théoriques dans le simulateur de lutte contre les incendies, en utilisant les techniques de premiers secours et la pratique du fossé dans une piscine. Toute la formation pratique est contenue dans chaque module théorique.
+					</font></font></p>
+				</main>
+
+				<div class="req">
+					<h1><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Conditions d'entrée
+					</font></font></h1>
+					<ul>
+						<li style="--accent-color:#60c5a6">
+							<div class="icon"><i class="fa-regular fa-calendar"></i></div>
+							<div class="title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Âge</font></font></div>
+							<div class="descr"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">18 ans et plus
+							</font></font></div>
+						</li>
+						<li style="--accent-color:#f20071">
+							<div class="icon"><i class="fa-solid fa-school"></i></div>
+							<div class="title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Éducation</font></font></div>
+							<div class="descr"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Baccalauréat
+							</font></font></div>
+						</li>
+						<li style="--accent-color:#FCBA35">
+							<div class="icon"><i class="fa-solid fa-person-swimming"></i></div>
+							<div class="title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Compétences en natation
+							</font></font></div>
+							<div class="descr"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Capacité à nager
+							</font></font></div>
+						</li>
+						<li style="--accent-color:#DAE438">
+							<div class="icon"><i class="fa-solid fa-kit-medical"></i></div>
+							<div class="title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Statut physique
+							</font></font></div>
+							<div class="descr"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Médicalement apte à obtenir un rapport médical de l’équipage de cabine</font></font></div>
+						</li>
+						<li style="--accent-color:#994D7F">
+							<div class="icon"><i class="fa-solid fa-language"></i></div>
+							<div class="title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Maîtrise de l'anglais</font></font></div>
+							<div class="descr"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Niveau de langue anglaise B1 selon la norme du CECR
+							</font></font></div>
+						</li>
+					</ul>
+
+
+				</div>
+
+				<div class="newList">
+					<div class="row">
+						<div style="    padding: 3% 2% 3% 5%;
+						background-color: #f0f8ff40;
+						height: 61vh;
+					" class="col-md-6">
+							<h2 style="color: white; font-size: xxx-large;"><boild><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LITUANIE, Vilnius</font></font></boild></h2>
+							<ul>
+								<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5 min</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> en voiture de l'aéroport international de Vilnius</font></font></li>
+								<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">4 FFS pour vos services :</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> deux A320, B737 NG et B737 CL</font></font></li>
+								<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Salles de classe spacieuses, salles de briefing/debriefing</font></font></li>
+								<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Une salle à manger et un espace loisirs avec distributeurs de snacks et de café</font></font></li>
+								<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Hébergement proposé à l'Hôtel LOOP 4* à côté du centre de formation</font></font></li>
+								<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">La prise en charge à l'aéroport est disponible</font></font></li>
+							</ul>
+						</div>
+						<div style="padding: 0px;" class="col-md-6">
+							<div class="slideshow-container">
+								<div class="mySlides1" style="display: block;">
+
+									<span>
+										<span class="dot activeDot"></span>
+										<span class="dot"></span>
+										<span class="dot "></span>
+										<span class="dot"></span>
+										<span class="dot"></span>
+										<span class="dot"></span>
+									</span>
+									<img src="images/baa-lithuania-map.jpg" style="width:100%;height:61vh;">
+								</div>
+
+								<div class="mySlides1" style="display: none;">
+
+									<span>
+										<span class="dot"></span>
+										<span class="dot activeDot"></span>
+										<span class="dot "></span>
+										<span class="dot"></span>
+										<span class="dot"></span>
+										<span class="dot"></span>
+									</span>
+									<img src="images/infra-slider-1.webp" style="width:100%;height:61vh;">
+								</div>
+
+								<div class="mySlides1" style="display: none;">
+									<span>
+										<span class="dot"></span>
+										<span class="dot"></span>
+										<span class="dot activeDot "></span>
+										<span class="dot"></span>
+										<span class="dot"></span>
+										<span class="dot"></span>
+									</span>
+									<img src="images/infra-slider-2.webp" style="width:100%;height:61vh;">
+								</div>
+
+								<div class="mySlides1" style="display: none;">
+									<span>
+										<span class="dot"></span>
+										<span class="dot"></span>
+										<span class="dot "></span>
+										<span class="dot activeDot"></span>
+										<span class="dot"></span>
+										<span class="dot"></span>
+									</span>
+									<img src="images/infra-slider-3.webp" style="width:100%;height:61vh;">
+								</div>
+
+
+								<div class="mySlides1" style="display: none;">
+									<span>
+										<span class="dot"></span>
+										<span class="dot"></span>
+										<span class="dot "></span>
+										<span class="dot"></span>
+										<span class="dot activeDot"></span>
+										<span class="dot"></span>
+									</span>
+									<img src="images/infra-slider-4.webp" style="width:100%;height:61vh;">
+								</div>
+
+
+								<div class="mySlides1" style="display: none;">
+									<span>
+										<span class="dot"></span>
+										<span class="dot"></span>
+										<span class="dot "></span>
+										<span class="dot"></span>
+										<span class="dot"></span>
+										<span class="dot activeDot"></span>
+									</span>
+
+									<img src="images/infra-slider-5.webp" style="width:100%;height:61vh;">
+								</div>
+
+								<a class="prev" onclick="plusSlides(-1, 0)"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">❮</font></font></a>
+								<a class="next" onclick="plusSlides(1, 0)"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">❯</font></font></a>
+							</div>
+
+
+
+
+
+						</div>
+					</div>
+				</div>
+
+				<div style="padding: 5% 0% 5% 0%;">
+					<div class="slideshow-container">
+						<div class="mySlides2" style="display: block;">
+
+							<span>
+								<span class="dot activeDot"></span>
+								<span class="dot"></span>
+								<span class="dot "></span>
+								<span class="dot"></span>
+								<span class="dot"></span>
+								<span class="dot"></span>
+							</span>
+							<img src="images/senior-training-cc-2.webp" style="width:100%;height:61vh;">
+						</div>
+
+						<div class="mySlides2" style="display: none;">
+
+							<span>
+								<span class="dot"></span>
+								<span class="dot activeDot"></span>
+								<span class="dot "></span>
+								<span class="dot"></span>
+								<span class="dot"></span>
+								<span class="dot"></span>
+							</span>
+							<img src="images/senior-training-cc-1.webp" style="width:100%;height:61vh;">
+						</div>
+
+						<div class="mySlides2" style="display: none;">
+							<span>
+								<span class="dot"></span>
+								<span class="dot"></span>
+								<span class="dot activeDot "></span>
+								<span class="dot"></span>
+								<span class="dot"></span>
+								<span class="dot"></span>
+							</span>
+							<img src="images/senior-training-cc-8.webp" style="width:100%;height:61vh;">
+						</div>
+
+						<div class="mySlides2" style="display: none;">
+							<span>
+								<span class="dot"></span>
+								<span class="dot"></span>
+								<span class="dot "></span>
+								<span class="dot activeDot"></span>
+								<span class="dot"></span>
+								<span class="dot"></span>
+							</span>
+							<img src="images/senior-training-cc-7.webp" style="width:100%;height:61vh;">
+						</div>
+
+
+						<div class="mySlides2" style="display: none;">
+							<span>
+								<span class="dot"></span>
+								<span class="dot"></span>
+								<span class="dot "></span>
+								<span class="dot"></span>
+								<span class="dot activeDot"></span>
+								<span class="dot"></span>
+							</span>
+							<img src="images/aaaa.webp" style="width:100%;height:61vh;">
+						</div>
+
+
+						<div class="mySlides2" style="display: none;">
+							<span>
+								<span class="dot"></span>
+								<span class="dot"></span>
+								<span class="dot "></span>
+								<span class="dot"></span>
+								<span class="dot"></span>
+								<span class="dot activeDot"></span>
+							</span>
+
+							<img src="images/senior-training-cc-5.webp" style="width:100%;height:61vh;">
+						</div>
+
+						<a class="prev" onclick="plusSlides(-1, 1)"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">❮</font></font></a>
+						<a class="next" onclick="plusSlides(1, 1)"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">❯</font></font></a>
+					</div>
+				</div>
+
+			</div>
+
+
 		</div>
 
 		<footer style="padding: 0px;" id="fh5co-footer" role="contentinfo" class="fh5co-section">
