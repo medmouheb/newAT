@@ -131,7 +131,7 @@ const set2english = () => {
 								</div>
 								<div style=" left:0px " class="newsection">
 									<div>
-										<p>For any question : <a href="mailto:contact@aerotecsupport.com"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">contact@aerotecsupport.com</font></font></a>  </p>
+										<p>For any requests : <a href="mailto:contact@aerotecsupport.com"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">contact@aerotecsupport.com</font></font></a>  </p>
 										<p>For Engineering/Consulting support : <a href="mailto:training.department@aerotecsupport.com"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">training.department@aerotecsupport.com</font></font></a>  </p>
 										<p>For Training request : <a href="mailto:Engineering.department@aerotecsupport.com"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Engineering.department@aerotecsupport.com</font></font></a>  </p>
 									</div>
@@ -439,7 +439,7 @@ const set2french = () => {
 
 								<div style=" left:0px ;" class="newsection">
 									<div>
-										<p>Pour toute question : <a href="mailto:contact@aerotecsupport.com"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">contact@aerotecsupport.com</font></font></a>  </p>
+										<p>Pour toute demande: <a href="mailto:contact@aerotecsupport.com"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">contact@aerotecsupport.com</font></font></a>  </p>
 										<p>Pour le support d’ingénierie/conseil : <a href="mailto:training.department@aerotecsupport.com"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">training.department@aerotecsupport.com</font></font></a>  </p>
 										<p>Pour demande de formation : <a href="mailto:Engineering.department@aerotecsupport.com"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Engineering.department@aerotecsupport.com</font></font></a>  </p>
 									</div>
