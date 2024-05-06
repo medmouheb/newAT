@@ -447,7 +447,7 @@ const set2french = () => {
             <div class="col-md-1  fh5co-widget">
                 <h4><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Liens</font></font></h4>
                 <ul class="fh5co-footer-links">
-                    <li><a href="/index.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Maison</font></font></a></li>
+                    <li><a href="/index.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Acceuil</font></font></a></li>
                     <li><a href="/about.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">À propos</font></font></a></li>
                     <li><a href="/engineering service.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Prestations de service</font></font></a></li>
                     <li><a href="/technical manegment support.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Gestion</font></font></a></li>

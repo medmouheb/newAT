@@ -116,7 +116,7 @@ const set2english = () => {
 						<div class="display-t js-fullheight">
 							<div class="display-tc js-fullheight animate-box" data-animate-effect="fadeIn">
 								<h1>Maitenance <em></em>reviews</h1>
-								<!-- <h2>Brought to you by <a href="http://freehtml5.co/" target="_blank">freehtml5.co</a> -->
+								<!-- <h2>Brought to you by <a href="http://SBI/" target="_blank">SBI</a> -->
 								</h2>
 							</div>
 						</div>
@@ -341,7 +341,7 @@ const set2french = () => {
 						<div class="display-t js-fullheight" style="height: 730px;">
 							<div class="display-tc js-fullheight animate-box fadeIn animated-fast" data-animate-effect="fadeIn" style="height: 730px;">
 								<h1><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">entretien</font></font><em></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Commentaires</font></font></h1>
-								<!-- <h2>Brought to you by <a href="http://freehtml5.co/" target="_blank">freehtml5.co</a> -->
+								<!-- <h2>Brought to you by <a href="http://SBI/" target="_blank">SBI</a> -->
 
 							</div>
 						</div>
@@ -369,7 +369,7 @@ const set2french = () => {
             <div class="col-md-1  fh5co-widget">
                 <h4><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Liens</font></font></h4>
                 <ul class="fh5co-footer-links">
-                    <li><a href="/index.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Maison</font></font></a></li>
+                    <li><a href="/index.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Acceuil</font></font></a></li>
                     <li><a href="/about.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">À propos</font></font></a></li>
                     <li><a href="/engineering service.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Prestations de service</font></font></a></li>
                     <li><a href="/technical manegment support.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Gestion</font></font></a></li>
